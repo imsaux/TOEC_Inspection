@@ -20,7 +20,6 @@ namespace TOEC_Inspection
                 {
                     MessageBox.Show("TOEC Inspection 已经打开了。", "消息", MessageBoxButtons.OK, MessageBoxIcon.Exclamation);
                     Application.Exit();
-                    ///test
                 }
                 else
                 {
