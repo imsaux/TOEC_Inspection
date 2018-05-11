@@ -1,0 +1,18 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="TOEC_Inspection" GeneratedClassName="CommonSetting">
+  <Profiles />
+  <Settings>
+    <Setting Name="ConStr_Inspection" Type="System.String" Scope="User">
+      <Value Profile="(Default)">server=localhost;database=toec_update;user=sartas;pwd=sartas;port=3306;CharSet=gb2312;</Value>
+    </Setting>
+    <Setting Name="SkinName" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Office 2010 Silver</Value>
+    </Setting>
+    <Setting Name="IP_Inspection" Type="System.String" Scope="User">
+      <Value Profile="(Default)">172.1.10.88</Value>
+    </Setting>
+    <Setting Name="AlarmLevel" Type="System.String" Scope="User">
+      <Value Profile="(Default)">3</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
