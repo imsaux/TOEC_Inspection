@@ -5,9 +5,9 @@ VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TOEC Inspection", "TOEC Inspection.csproj", "{8D09194F-B087-4E79-9D14-8C5271FD2270}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TOEC SASTAD Data", "..\..\TOEC SASTAD Data\TOEC SASTAD Data.csproj", "{9533BC97-F361-4D57-96B2-DCED8DCEB6EC}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TOEC SASTAD Data", "..\TOEC_SASTAD_Data\TOEC SASTAD Data.csproj", "{9533BC97-F361-4D57-96B2-DCED8DCEB6EC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TOEC_Common", "..\..\TOEC_Common\TOEC_Common.csproj", "{E4AEFBD9-FD44-4529-A5D9-93FE374EC368}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TOEC_Common", "..\TOEC_Common\TOEC_Common.csproj", "{E4AEFBD9-FD44-4529-A5D9-93FE374EC368}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
