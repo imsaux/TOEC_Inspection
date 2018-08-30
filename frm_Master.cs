@@ -62,7 +62,7 @@ namespace TOEC_Inspection
                 {
                     foreach (line l in ls)
                     {
-                        KeyValuePair<int, string> kv = new KeyValuePair<int, string>(l.Line_ID, l.Line_Name);
+                        KeyValuePair<int, string> kv = new KeyValuePair<int, string>(int.Parse(l.LineID), l.LineName);
                         repositoryItemComboBox_Line.Items.Add(kv);
                     }
                 }
