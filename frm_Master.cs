@@ -142,7 +142,7 @@ namespace TOEC_Inspection
             {
                 popupContainerControl_Problem.Width = 300;
                 BLL_SysCode scbll = new BLL_SysCode();
-                List<sys_code> listAlarmType = scbll.Get_AlarmTypeList();
+                List<sys_alg> listAlarmType = scbll.Get_AlarmTypeList();
                 popupContainerControl_Problem.SuspendLayout();//挂起逻辑布局
                 const int FirstTop = 35;//初始高度
                 int offset_top = FirstTop;
@@ -160,7 +160,7 @@ namespace TOEC_Inspection
                     CheckEdit cb = new CheckEdit();
                     cb.Properties.AutoWidth = true;
                     cb.Enabled = false;
-                    cb.Name = "chk_" + listAlarmType[i].Code_ID.ToString();
+                    cb.Name = "chk_" + listAlarmType[i].Code.ToString();
                     cb.AutoSize = true;
                     cb.Location = new Point(offset_left, offset_top);
                     cb.Size = new Size(95, 16);
@@ -172,7 +172,7 @@ namespace TOEC_Inspection
                     {
                         cb.Checked = true;
                     }
-                    cb.Text = listAlarmType[i].Meaning;
+                    cb.Text = listAlarmType[i].Name;
                     cb.Tag = listAlarmType[i];
                     cb.CheckedChanged += Cb_CheckedChanged;
                     popupContainerControl_Problem.Controls.Add(cb);
@@ -189,7 +189,7 @@ namespace TOEC_Inspection
         private void Cb_CheckedChanged(object sender, EventArgs e)
         {
             CheckEdit thisone = (CheckEdit)sender;
-            sys_code thiscode = (sys_code)thisone.Tag;
+            sys_alg thiscode = (sys_alg)thisone.Tag;
             BLL_SysCode scbll = new BLL_SysCode();
             if (thisone.Checked)
             {

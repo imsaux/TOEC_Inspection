@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\imsuny\.Rider2018.2\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\imsuny\.Rider2018.2\system\resharper-host\Local\Transient\ReSharperHost\v182\SolutionCaches\_TOEC Inspection.1258802239.00" t="ExcludeRecursive" />
+    <e p="D:\code\vs2015\projects\TOEC_Common" t="IncludeRecursive">
+      <e p="Bin" t="ExcludeRecursive" />
+      <e p="Config" t="Include">
+        <e p="Log4Net.config" t="Include" />
+      </e>
+      <e p="Enum" t="Include">
+        <e p="CustomEnum.cs" t="Include" />
+      </e>
+      <e p="Help_Color" t="Include">
+        <e p="CommonColor.cs" t="Include" />
+      </e>
+      <e p="Help_Config" t="Include">
+        <e p="Config.cs" t="Include" />
+      </e>
+      <e p="Help_Image" t="Include">
+        <e p="Img_Compress.cs" t="Include" />
+      </e>
+      <e p="Help_Log" t="Include">
+        <e p="Log.cs" t="Include" />
+      </e>
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="packages.config" t="Include" />
+      <e p="Properties" t="Include">
+        <e p="AssemblyInfo.cs" t="Include" />
+      </e>
+      <e p="TimeoutCheck.cs" t="Include" />
+      <e p="TOEC_Common.csproj" t="IncludeRecursive" />
+    </e>
+    <e p="D:\code\vs2015\projects\TOEC_Inspection" t="IncludeRecursive">
+      <e p="App.config" t="Include" />
+      <e p="Bin" t="ExcludeRecursive" />
+      <e p="CommonSetting.Designer.cs" t="Include" />
+      <e p="CommonSetting.settings" t="Include" />
+      <e p="Config" t="Include">
+        <e p="Base.config" t="Include" />
+      </e>
+      <e p="CustomImgs" t="Include">
+        <e p="aptanalogo.ico" t="Include" />
+        <e p="dconf_editor.ico" t="Include" />
+        <e p="down.png" t="Include" />
+        <e p="home.png" t="Include" />
+        <e p="image_left_32px.png" t="Include" />
+        <e p="image_right_32px.png" t="Include" />
+        <e p="right.png" t="Include" />
+        <e p="springseed.ico" t="Include" />
+        <e p="utilities_system_monitor.ico" t="Include" />
+        <e p="WasteTankerTrailer_Left.png" t="Include" />
+        <e p="WasteTankerTrailer_Right.png" t="Include" />
+      </e>
+      <e p="frm_Config_DB.cs" t="Include" />
+      <e p="frm_Config_DB.Designer.cs" t="Include" />
+      <e p="frm_Config_DB.resx" t="Include" />
+      <e p="frm_Config_Remote.cs" t="Include" />
+      <e p="frm_Config_Remote.Designer.cs" t="Include" />
+      <e p="frm_Config_Remote.resx" t="Include" />
+      <e p="frm_Config_Station.cs" t="Include" />
+      <e p="frm_Config_Station.Designer.cs" t="Include" />
+      <e p="frm_Config_Station.resx" t="Include" />
+      <e p="frm_CopyLastImage.cs" t="Include" />
+      <e p="frm_CopyLastImage.Designer.cs" t="Include" />
+      <e p="frm_CopyLastImage.resx" t="Include" />
+      <e p="frm_CopyProblemImge.cs" t="Include" />
+      <e p="frm_CopyProblemImge.Designer.cs" t="Include" />
+      <e p="frm_CopyProblemImge.resx" t="Include" />
+      <e p="frm_Master.cs" t="Include" />
+      <e p="frm_Master.Designer.cs" t="Include" />
+      <e p="frm_Master.resx" t="Include" />
+      <e p="frm_Report.cs" t="Include" />
+      <e p="frm_Report.Designer.cs" t="Include" />
+      <e p="frm_Report.resx" t="Include" />
+      <e p="frm_ViewTemplate.cs" t="Include" />
+      <e p="frm_ViewTemplate.Designer.cs" t="Include" />
+      <e p="frm_ViewTemplate.resx" t="Include" />
+      <e p="frm_ViewTrainDetail.cs" t="Include" />
+      <e p="frm_ViewTrainDetail.Designer.cs" t="Include" />
+      <e p="frm_ViewTrainDetail.resx" t="Include" />
+      <e p="frm_Wait.cs" t="Include" />
+      <e p="frm_Wait.Designer.cs" t="Include" />
+      <e p="frm_Wait.resx" t="Include" />
+      <e p="Model" t="Include">
+        <e p="Display_IndexTest.cs" t="Include" />
+        <e p="Template_Node_config.cs" t="Include" />
+        <e p="Template_Node_del.cs" t="Include" />
+        <e p="Template_Node_software.cs" t="Include" />
+        <e p="Template_SubNode_configXML.cs" t="Include" />
+      </e>
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="packages.config" t="Include" />
+      <e p="Program.cs" t="Include" />
+      <e p="Properties" t="Include">
+        <e p="AssemblyInfo.cs" t="Include" />
+        <e p="licenses.licx" t="Include" />
+        <e p="Resources.Designer.cs" t="Include" />
+        <e p="Resources.resx" t="Include" />
+      </e>
+      <e p="TemplateAndFiles.cs" t="Include" />
+      <e p="TOEC Inspection.csproj" t="IncludeRecursive" />
+      <e p="TOEC Inspection.sln" t="IncludeFlat" />
+      <e p="utilities_system_monitor.ico" t="Include" />
+    </e>
+    <e p="D:\code\vs2015\projects\TOEC_SASTAD_Data" t="IncludeRecursive">
+      <e p="App.config" t="Include" />
+      <e p="Bin" t="ExcludeRecursive" />
+      <e p="BLL" t="Include">
+        <e p="BLL_account_t_function.cs" t="Include" />
+        <e p="BLL_account_t_role.cs" t="Include" />
+        <e p="BLL_account_t_station.cs" t="Include" />
+        <e p="BLL_account_t_user.cs" t="Include" />
+        <e p="BLL_AlarmDetail.cs" t="Include" />
+        <e p="BLL_Car.cs" t="Include" />
+        <e p="BLL_hotwheel_axle.cs" t="Include" />
+        <e p="BLL_Line.cs" t="Include" />
+        <e p="BLL_Log.cs" t="Include" />
+        <e p="BLL_Statistics_Image.cs" t="Include" />
+        <e p="BLL_SysCode.cs" t="Include" />
+        <e p="BLL_Train.cs" t="Include" />
+      </e>
+      <e p="Config" t="Include">
+        <e p="DB.config" t="Include" />
+      </e>
+      <e p="Enum" t="Include">
+        <e p="EnumClass.cs" t="Include" />
+        <e p="EnumExtend.cs" t="Include" />
+      </e>
+      <e p="Model" t="Include">
+        <e p="account_r_role_function.cs" t="Include" />
+        <e p="account_r_users_roles.cs" t="Include" />
+        <e p="account_t_function.cs" t="Include" />
+        <e p="account_t_role.cs" t="Include" />
+        <e p="account_t_station.cs" t="Include" />
+        <e p="account_t_user.cs" t="Include" />
+        <e p="alarmdetail.cs" t="Include" />
+        <e p="algresultdetail.cs" t="Include" />
+        <e p="algresultmain.cs" t="Include" />
+        <e p="automergelog.cs" t="Include" />
+        <e p="dbversion.cs" t="Include" />
+        <e p="hotwheel_axle.cs" t="Include" />
+        <e p="imagequality.cs" t="Include" />
+        <e p="import_index.cs" t="Include" />
+        <e p="import_temp.cs" t="Include" />
+        <e p="line.cs" t="Include" />
+        <e p="lineside.cs" t="Include" />
+        <e p="linesidealgcaralarm.cs" t="Include" />
+        <e p="PredicateBuilder.cs" t="Include" />
+        <e p="qbdetail.cs" t="Include" />
+        <e p="qbmaster.cs" t="Include" />
+        <e p="sartas3.cs" t="Include" />
+        <e p="statistics_hotwheel.cs" t="Include" />
+        <e p="statistics_image.cs" t="Include" />
+        <e p="sys_alg.cs" t="Include" />
+        <e p="sys_cartype.cs" t="Include" />
+        <e p="sys_checktype.cs" t="Include" />
+        <e p="sys_code.cs" t="Include" />
+        <e p="sys_codemap.cs" t="Include" />
+        <e p="sys_log.cs" t="Include" />
+        <e p="sys_side.cs" t="Include" />
+        <e p="sys_stations.cs" t="Include" />
+        <e p="sys_traintype.cs" t="Include" />
+        <e p="sys_version.cs" t="Include" />
+        <e p="train.cs" t="Include" />
+        <e p="traindetail.cs" t="Include" />
+        <e p="View_Train.cs" t="Include" />
+        <e p="View_TrainDetail.cs" t="Include" />
+      </e>
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="packages.config" t="Include" />
+      <e p="Properties" t="Include">
+        <e p="AssemblyInfo.cs" t="Include" />
+      </e>
+      <e p="TOEC SASTAD Data.csproj" t="IncludeRecursive" />
+    </e>
+  </component>
+</project>

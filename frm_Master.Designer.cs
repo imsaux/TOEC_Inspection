@@ -110,7 +110,7 @@
             this.repositoryItemComboBox_Problem = new DevExpress.XtraEditors.Repository.RepositoryItemComboBox();
             this.repositoryItemTextEdit_Server_UserName = new DevExpress.XtraEditors.Repository.RepositoryItemTextEdit();
             this.repositoryItemTextEdit_Server_Password = new DevExpress.XtraEditors.Repository.RepositoryItemTextEdit();
-            this.ribbonStatusBar1 = new DevExpress.XtraBars.Ribbon.RibbonStatusBar();
+            this.StatusBar_Template = new DevExpress.XtraBars.Ribbon.RibbonStatusBar();
             this.navigationFrame_Main = new DevExpress.XtraBars.Navigation.NavigationFrame();
             this.np_Template = new DevExpress.XtraBars.Navigation.NavigationPage();
             this.gc_Template = new DevExpress.XtraGrid.GridControl();
@@ -121,7 +121,6 @@
             this.gcol_ApplyDate = new DevExpress.XtraGrid.Columns.GridColumn();
             this.gcol_Result = new DevExpress.XtraGrid.Columns.GridColumn();
             this.gcol_Status = new DevExpress.XtraGrid.Columns.GridColumn();
-            this.StatusBar_Template = new DevExpress.XtraBars.Ribbon.RibbonStatusBar();
             this.np_Count = new DevExpress.XtraBars.Navigation.NavigationPage();
             this.gc_IndexTest = new DevExpress.XtraGrid.GridControl();
             this.gv_IndexTest = new DevExpress.XtraGrid.Views.Grid.GridView();
@@ -155,6 +154,7 @@
             this.gcol_Vehicle_Type = new DevExpress.XtraGrid.Columns.GridColumn();
             this.gcol_Problem_Type = new DevExpress.XtraGrid.Columns.GridColumn();
             this.gcol_TrainDetailAlarmLevel = new DevExpress.XtraGrid.Columns.GridColumn();
+            this.ribbonStatusBar1 = new DevExpress.XtraBars.Ribbon.RibbonStatusBar();
             this.popupControlContainer2 = new DevExpress.XtraBars.PopupControlContainer(this.components);
             this.buttonEdit = new DevExpress.XtraEditors.ButtonEdit();
             this.popupControlContainer1 = new DevExpress.XtraBars.PopupControlContainer(this.components);
@@ -370,7 +370,7 @@
             this.btn_Copy4Last});
             this.ribbonControl_Main.LargeImages = this.ribbonImageCollectionLarge;
             this.ribbonControl_Main.Location = new System.Drawing.Point(0, 0);
-            this.ribbonControl_Main.MaxItemId = 10;
+            this.ribbonControl_Main.MaxItemId = 12;
             this.ribbonControl_Main.Name = "ribbonControl_Main";
             this.ribbonControl_Main.Pages.AddRange(new DevExpress.XtraBars.Ribbon.RibbonPage[] {
             this.rp_SASTAD_Data,
@@ -393,7 +393,7 @@
             this.ribbonControl_Main.ShowQatLocationSelector = false;
             this.ribbonControl_Main.ShowToolbarCustomizeItem = false;
             this.ribbonControl_Main.Size = new System.Drawing.Size(957, 120);
-            this.ribbonControl_Main.StatusBar = this.StatusBar_Template;
+            this.ribbonControl_Main.StatusBar = this.ribbonStatusBar1;
             this.ribbonControl_Main.Toolbar.ShowCustomizeItem = false;
             this.ribbonControl_Main.ToolbarLocation = DevExpress.XtraBars.Ribbon.RibbonQuickAccessToolbarLocation.Hidden;
             this.ribbonControl_Main.SelectedPageChanged += new System.EventHandler(this.ribbonControl_Main_SelectedPageChanged);
@@ -1039,14 +1039,13 @@
             this.repositoryItemTextEdit_Server_Password.Name = "repositoryItemTextEdit_Server_Password";
             this.repositoryItemTextEdit_Server_Password.PasswordChar = '*';
             // 
-            // ribbonStatusBar1
+            // StatusBar_Template
             // 
-            this.ribbonStatusBar1.ItemLinks.Add(this.lbl_TrainCount);
-            this.ribbonStatusBar1.ItemLinks.Add(this.lbl_CurTrainInfo);
-            this.ribbonStatusBar1.Location = new System.Drawing.Point(0, 216);
-            this.ribbonStatusBar1.Name = "ribbonStatusBar1";
-            this.ribbonStatusBar1.Ribbon = this.ribbonControl_Main;
-            this.ribbonStatusBar1.Size = new System.Drawing.Size(794, 27);
+            this.StatusBar_Template.ItemLinks.Add(this.lbl_RowCount);
+            this.StatusBar_Template.Location = new System.Drawing.Point(0, 498);
+            this.StatusBar_Template.Name = "StatusBar_Template";
+            this.StatusBar_Template.Ribbon = this.ribbonControl_Main;
+            this.StatusBar_Template.Size = new System.Drawing.Size(794, 27);
             // 
             // navigationFrame_Main
             // 
@@ -1151,14 +1150,6 @@
             this.gcol_Status.Visible = true;
             this.gcol_Status.VisibleIndex = 2;
             this.gcol_Status.Width = 211;
-            // 
-            // StatusBar_Template
-            // 
-            this.StatusBar_Template.ItemLinks.Add(this.lbl_RowCount);
-            this.StatusBar_Template.Location = new System.Drawing.Point(0, 498);
-            this.StatusBar_Template.Name = "StatusBar_Template";
-            this.StatusBar_Template.Ribbon = this.ribbonControl_Main;
-            this.StatusBar_Template.Size = new System.Drawing.Size(794, 27);
             // 
             // np_Count
             // 
@@ -1525,6 +1516,15 @@
             this.gcol_TrainDetailAlarmLevel.Visible = true;
             this.gcol_TrainDetailAlarmLevel.VisibleIndex = 4;
             this.gcol_TrainDetailAlarmLevel.Width = 121;
+            // 
+            // ribbonStatusBar1
+            // 
+            this.ribbonStatusBar1.ItemLinks.Add(this.lbl_TrainCount);
+            this.ribbonStatusBar1.ItemLinks.Add(this.lbl_CurTrainInfo);
+            this.ribbonStatusBar1.Location = new System.Drawing.Point(0, 216);
+            this.ribbonStatusBar1.Name = "ribbonStatusBar1";
+            this.ribbonStatusBar1.Ribbon = this.ribbonControl_Main;
+            this.ribbonStatusBar1.Size = new System.Drawing.Size(794, 27);
             // 
             // popupControlContainer2
             // 

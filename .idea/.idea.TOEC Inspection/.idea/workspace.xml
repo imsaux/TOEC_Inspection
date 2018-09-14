@@ -1,0 +1,1178 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3572182b-bec1-4aed-9997-120c840a3cd9" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/frm_CopyProblemImge.cs" beforeDir="false" afterPath="$PROJECT_DIR$/frm_CopyProblemImge.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frm_Master.Designer.cs" beforeDir="false" afterPath="$PROJECT_DIR$/frm_Master.Designer.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frm_Master.cs" beforeDir="false" afterPath="$PROJECT_DIR$/frm_Master.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frm_Master.resx" beforeDir="false" afterPath="$PROJECT_DIR$/frm_Master.resx" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="953473136">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="8" />
+          <entry key="project.open.time.1" value="1" />
+          <entry key="project.open.time.11" value="1" />
+          <entry key="project.open.time.31" value="1" />
+          <entry key="project.open.time.33" value="1" />
+          <entry key="project.open.time.35" value="1" />
+          <entry key="project.open.time.36" value="1" />
+          <entry key="project.open.time.38" value="1" />
+          <entry key="project.open.time.40" value="1" />
+          <entry key="project.opened" value="8" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="cs" value="8" />
+          <entry key="csproj" value="1" />
+          <entry key="resx" value="1" />
+          <entry key="vmoptions" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="C#" value="8" />
+          <entry key="Csproj" value="1" />
+          <entry key="PLAIN_TEXT" value="2" />
+          <entry key="Resources" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="C# Console" value="100" />
+          <entry key="cs" value="4" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="C#" value="104" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="TOEC Inspection" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/frm_Master.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-338">
+              <caret line="1044" column="17" lean-forward="true" selection-start-line="1044" selection-start-column="17" selection-end-line="1044" selection-end-column="17" />
+              <folding>
+                <marker date="1535709268108" expanded="false" signature="6:623" ph="..." />
+                <marker date="1535709268108" expanded="true" signature="650:56990" ph="{...}" />
+                <marker date="1535709268108" expanded="true" signature="699:56988" ph="{...}" />
+                <marker date="1535709268108" expanded="false" signature="714:3507" ph="初始化" />
+                <marker date="1535709268108" expanded="true" signature="1073:1163" ph="{...}" />
+                <marker date="1535709268108" expanded="true" signature="1173:1230" ph="/// 初始化自定义控件 ... " />
+                <marker date="1535709268108" expanded="true" signature="1273:3488" ph="{...}" />
+                <marker date="1535709268108" expanded="true" signature="1299:3421" ph="{...}" />
+                <marker date="1535709268108" expanded="true" signature="2093:2402" ph="{...}" />
+                <marker date="1535709268108" expanded="true" signature="2154:2384" ph="{...}" />
+                <marker date="1535709268108" expanded="true" signature="3291:3407" ph="{...}" />
+                <marker date="1535709268108" expanded="false" signature="3517:3666" ph="===============================================  我是功能分割线  ================================================================" />
+                <marker date="1535709268108" expanded="false" signature="3676:5147" ph="TAB: 本地配置" />
+                <marker date="1535709268108" expanded="true" signature="3702:3837" ph="/// 本地数据库配置 ... " />
+                <marker date="1535709268108" expanded="true" signature="3939:4072" ph="{...}" />
+                <marker date="1535709268108" expanded="true" signature="4081:4213" ph="/// 车站管理 ... " />
+                <marker date="1535709268108" expanded="true" signature="4317:4743" ph="{...}" />
+                <marker date="1535709268108" expanded="true" signature="4414:4581" ph="{...}" />
+                <marker date="1535709268108" expanded="true" signature="4598:4733" ph="{...}" />
+                <marker date="1535709268108" expanded="true" signature="4752:4884" ph="/// 皮肤管理 ... " />
+                <marker date="1535709268108" expanded="true" signature="5005:5128" ph="{...}" />
+                <marker date="1535709268108" expanded="true" signature="5157:21123" ph="控件初始化【面板、树、表格、窗体、TAB】" />
+                <marker date="1535709268108" expanded="true" signature="5196:10309" ph="问题面板" />
+                <marker date="1535709268108" expanded="true" signature="5217:5273" ph="/// 问题面板初始化 ... " />
+                <marker date="1535709268108" expanded="true" signature="5317:7464" ph="{...}" />
+                <marker date="1535709268108" expanded="true" signature="5343:7361" ph="{...}" />
+                <marker date="1535709268108" expanded="true" signature="5825:7243" ph="{...}" />
+                <marker date="1535709268108" expanded="true" signature="5887:6125" ph="{...}" />
+                <marker date="1535709268108" expanded="true" signature="6564:6652" ph="{...}" />
+                <marker date="1535709268108" expanded="true" signature="6677:6764" ph="{...}" />
+                <marker date="1535709268108" expanded="true" signature="7531:7943" ph="{...}" />
+                <marker date="1535709268108" expanded="true" signature="7729:7795" ph="{...}" />
+                <marker date="1535709268108" expanded="true" signature="7812:7886" ph="{...}" />
+                <marker date="1535709268108" expanded="true" signature="8012:8783" ph="{...}" />
+                <marker date="1535709268108" expanded="true" signature="8062:8394" ph="{...}" />
+                <marker date="1535709268108" expanded="true" signature="8178:8380" ph="{...}" />
+                <marker date="1535709268108" expanded="true" signature="8440:8773" ph="{...}" />
+                <marker date="1535709268108" expanded="true" signature="8556:8759" ph="{...}" />
+                <marker date="1535709268108" expanded="true" signature="8793:8930" ph="/// 问题Radio判断 ... " />
+                <marker date="1535709268108" expanded="true" signature="9000:10290" ph="{...}" />
+                <marker date="1535709268108" expanded="true" signature="9052:9433" ph="{...}" />
+                <marker date="1535709268108" expanded="true" signature="9217:9419" ph="{...}" />
+                <marker date="1535709268108" expanded="true" signature="9479:9861" ph="{...}" />
+                <marker date="1535709268108" expanded="true" signature="9644:9847" ph="{...}" />
+                <marker date="1535709268108" expanded="true" signature="9901:10280" ph="{...}" />
+                <marker date="1535709268108" expanded="true" signature="10063:10266" ph="{...}" />
+                <marker date="1535709268108" expanded="false" signature="10319:13011" ph="车站树" />
+                <marker date="1535709268108" expanded="true" signature="10339:10393" ph="/// 加载车站树 ... " />
+                <marker date="1535709268108" expanded="true" signature="10429:11319" ph="{...}" />
+                <marker date="1535709268108" expanded="true" signature="10544:11309" ph="{...}" />
+                <marker date="1535709268108" expanded="true" signature="10833:11121" ph="{...}" />
+                <marker date="1535709268108" expanded="true" signature="11142:11295" ph="{...}" />
+                <marker date="1535709268108" expanded="true" signature="11328:11464" ph="/// 树形控件添加图标 ... " />
+                <marker date="1535709268108" expanded="true" signature="11571:11962" ph="{...}" />
+                <marker date="1535709268108" expanded="true" signature="11654:11867" ph="{...}" />
+                <marker date="1535709268108" expanded="true" signature="11705:11813" ph="{...}" />
+                <marker date="1535709268108" expanded="true" signature="11884:11952" ph="{...}" />
+                <marker date="1535709268108" expanded="true" signature="11971:12103" ph="/// 选择节点 ... " />
+                <marker date="1535709268108" expanded="true" signature="12212:12992" ph="{...}" />
+                <marker date="1535709268108" expanded="true" signature="12350:12766" ph="{...}" />
+                <marker date="1535709268108" expanded="true" signature="12783:12940" ph="{...}" />
+                <marker date="1535709268108" expanded="false" signature="13021:16334" ph="模板表格" />
+                <marker date="1535709268108" expanded="true" signature="13042:13097" ph="/// 加载模板表格 ... " />
+                <marker date="1535709268108" expanded="true" signature="13147:14394" ph="{...}" />
+                <marker date="1535709268108" expanded="true" signature="13173:14314" ph="{...}" />
+                <marker date="1535709268108" expanded="true" signature="13340:13939" ph="{...}" />
+                <marker date="1535709268108" expanded="true" signature="13700:13797" ph="{...}" />
+                <marker date="1535709268108" expanded="true" signature="13822:13921" ph="{...}" />
+                <marker date="1535709268108" expanded="true" signature="14024:14221" ph="{...}" />
+                <marker date="1535709268108" expanded="true" signature="14403:14534" ph="/// 行颜色 ... " />
+                <marker date="1535709268108" expanded="true" signature="14658:16315" ph="{...}" />
+                <marker date="1535709268108" expanded="true" signature="14888:16085" ph="{...}" />
+                <marker date="1535709268108" expanded="true" signature="16098:16305" ph="/* if (e.RowHandle == gv_Template.FocusedRowHandle) ... */" />
+                <marker date="1535709268108" expanded="false" signature="16344:17351" ph="指标测试表格 行颜色" />
+                <marker date="1535709268108" expanded="true" signature="16371:16502" ph="/// 行颜色 ... " />
+                <marker date="1535709268108" expanded="true" signature="16627:17332" ph="{...}" />
+                <marker date="1535709268108" expanded="true" signature="16741:17322" ph="{...}" />
+                <marker date="1535709268108" expanded="true" signature="16908:17074" ph="{...}" />
+                <marker date="1535709268108" expanded="true" signature="17141:17308" ph="{...}" />
+                <marker date="1535709268108" expanded="true" signature="17361:19543" ph="接发车数据 行颜色" />
+                <marker date="1535709268108" expanded="true" signature="17387:17518" ph="/// 列车表 ... " />
+                <marker date="1535709268108" expanded="true" signature="17639:18442" ph="{...}" />
+                <marker date="1535709268108" expanded="true" signature="17838:18432" ph="{...}" />
+                <marker date="1535709268108" expanded="true" signature="17930:18043" ph="{...}" />
+                <marker date="1535709268108" expanded="true" signature="18126:18232" ph="{...}" />
+                <marker date="1535709268108" expanded="true" signature="18253:18418" ph="{...}" />
+                <marker date="1535709268108" expanded="true" signature="18451:18582" ph="/// 车厢表 ... " />
+                <marker date="1535709268108" expanded="true" signature="18709:19524" ph="{...}" />
+                <marker date="1535709268108" expanded="true" signature="18914:19514" ph="{...}" />
+                <marker date="1535709268108" expanded="true" signature="19006:19125" ph="{...}" />
+                <marker date="1535709268108" expanded="true" signature="19208:19314" ph="{...}" />
+                <marker date="1535709268108" expanded="true" signature="19335:19500" ph="{...}" />
+                <marker date="1535709268108" expanded="false" signature="19553:20235" ph="窗体关闭询问" />
+                <marker date="1535709268108" expanded="true" signature="19576:19710" ph="/// 窗体关闭询问 ... " />
+                <marker date="1535709268108" expanded="true" signature="19793:20216" ph="{...}" />
+                <marker date="1535709268108" expanded="true" signature="20065:20128" ph="{...}" />
+                <marker date="1535709268108" expanded="true" signature="20145:20206" ph="{...}" />
+                <marker date="1535709268108" expanded="false" signature="20245:21103" ph="导航切换" />
+                <marker date="1535709268108" expanded="true" signature="20266:20398" ph="/// 导航切换 ... " />
+                <marker date="1535709268108" expanded="true" signature="20486:21084" ph="{...}" />
+                <marker date="1535709268108" expanded="true" signature="20560:20653" ph="{...}" />
+                <marker date="1535709268108" expanded="true" signature="20719:20846" ph="{...}" />
+                <marker date="1535709268108" expanded="true" signature="20918:21074" ph="{...}" />
+                <marker date="1535709268108" expanded="false" signature="21133:21282" ph="===============================================  我是功能分割线  ================================================================" />
+                <marker date="1535709268108" expanded="false" signature="21292:30089" ph="TAB：模板管理" />
+                <marker date="1535709268108" expanded="true" signature="21317:21449" ph="/// 导入模板 ... " />
+                <marker date="1535709268108" expanded="true" signature="21548:23806" ph="{...}" />
+                <marker date="1535709268108" expanded="true" signature="21617:21761" ph="{...}" />
+                <marker date="1535709268108" expanded="true" signature="22088:23796" ph="{...}" />
+                <marker date="1535709268108" expanded="true" signature="22334:23659" ph="{...}" />
+                <marker date="1535709268108" expanded="true" signature="22683:23641" ph="{...}" />
+                <marker date="1535709268108" expanded="true" signature="23360:23619" ph="{...}" />
+                <marker date="1535709268108" expanded="true" signature="23815:23947" ph="/// 删除模板 ... " />
+                <marker date="1535709268108" expanded="true" signature="24043:25565" ph="{...}" />
+                <marker date="1535709268108" expanded="true" signature="24110:24266" ph="{...}" />
+                <marker date="1535709268108" expanded="true" signature="24596:24756" ph="{...}" />
+                <marker date="1535709268108" expanded="true" signature="24933:25555" ph="{...}" />
+                <marker date="1535709268108" expanded="true" signature="25080:25468" ph="{...}" />
+                <marker date="1535709268108" expanded="true" signature="25353:25450" ph="{...}" />
+                <marker date="1535709268108" expanded="true" signature="25574:25706" ph="/// 浏览模板 ... " />
+                <marker date="1535709268108" expanded="true" signature="25803:26607" ph="{...}" />
+                <marker date="1535709268108" expanded="true" signature="25932:26088" ph="{...}" />
+                <marker date="1535709268108" expanded="true" signature="26616:26748" ph="/// 应用模板 ... " />
+                <marker date="1535709268108" expanded="true" signature="26846:30070" ph="{...}" />
+                <marker date="1535709268108" expanded="true" signature="26913:27069" ph="{...}" />
+                <marker date="1535709268108" expanded="true" signature="27415:27577" ph="{...}" />
+                <marker date="1535709268108" expanded="true" signature="27756:30060" ph="{...}" />
+                <marker date="1535709268108" expanded="true" signature="28366:28542" ph="{...}" />
+                <marker date="1535709268108" expanded="true" signature="28563:28680" ph="{...}" />
+                <marker date="1535709268108" expanded="true" signature="28819:28994" ph="{...}" />
+                <marker date="1535709268108" expanded="true" signature="29466:29916" ph="{...}" />
+                <marker date="1535709268108" expanded="true" signature="29547:29829" ph="{...}" />
+                <marker date="1535709268108" expanded="true" signature="29829:29898" ph="{...}" />
+                <marker date="1535709268108" expanded="false" signature="30099:36497" ph="Socket 发送模板功能" />
+                <marker date="1535709268108" expanded="true" signature="30129:30230" ph="/// Socket 发送模板功能 ... " />
+                <marker date="1535709268108" expanded="true" signature="30276:36478" ph="{...}" />
+                <marker date="1535709268108" expanded="true" signature="30847:30934" ph="{...}" />
+                <marker date="1535709268108" expanded="true" signature="30965:31131" ph="{...}" />
+                <marker date="1535709268108" expanded="true" signature="31147:35850" ph="{...}" />
+                <marker date="1535709268108" expanded="true" signature="31562:34737" ph="{...}" />
+                <marker date="1535709268108" expanded="true" signature="31635:34684" ph="{...}" />
+                <marker date="1535709268108" expanded="true" signature="31874:31930" ph="/* 包的大小 ... */" />
+                <marker date="1535709268108" expanded="true" signature="33153:33914" ph="{...}" />
+                <marker date="1535709268108" expanded="true" signature="33404:33687" ph="{...}" />
+                <marker date="1535709268108" expanded="true" signature="34009:34256" ph="{...}" />
+                <marker date="1535709268108" expanded="true" signature="34989:35154" ph="{...}" />
+                <marker date="1535709268108" expanded="true" signature="35175:35836" ph="{...}" />
+                <marker date="1535709268108" expanded="true" signature="35434:35615" ph="{...}" />
+                <marker date="1535709268108" expanded="true" signature="35640:35818" ph="{...}" />
+                <marker date="1535709268108" expanded="true" signature="35883:36088" ph="{...}" />
+                <marker date="1535709268108" expanded="true" signature="36108:36468" ph="{...}" />
+                <marker date="1535709268108" expanded="true" signature="36166:36266" ph="{...}" />
+                <marker date="1535709268108" expanded="false" signature="36507:39924" ph="委托控件调用（模板相关功能）" />
+                <marker date="1535709268108" expanded="true" signature="36538:36694" ph="/// 线程委托：修改界面GridControl ... " />
+                <marker date="1535709268108" expanded="true" signature="36851:38021" ph="{...}" />
+                <marker date="1535709268108" expanded="true" signature="36962:37144" ph="{...}" />
+                <marker date="1535709268108" expanded="true" signature="37271:38011" ph="{...}" />
+                <marker date="1535709268108" expanded="true" signature="37525:37639" ph="{...}" />
+                <marker date="1535709268108" expanded="true" signature="37911:37997" ph="{...}" />
+                <marker date="1535709268108" expanded="true" signature="38030:38353" ph="/// 线程委托：修改界面lbl_TransferStatus ... " />
+                <marker date="1535709268108" expanded="true" signature="38484:38788" ph="/// 更新界面进度标签 ... " />
+                <marker date="1535709268108" expanded="true" signature="38891:39905" ph="{...}" />
+                <marker date="1535709268108" expanded="true" signature="39005:39133" ph="{...}" />
+                <marker date="1535709268108" expanded="true" signature="39217:39895" ph="{...}" />
+                <marker date="1535709268108" expanded="true" signature="39380:39509" ph="{...}" />
+                <marker date="1535709268108" expanded="true" signature="39773:39881" ph="{...}" />
+                <marker date="1535709268108" expanded="false" signature="39934:40083" ph="===============================================  我是功能分割线  ================================================================" />
+                <marker date="1535709268108" expanded="false" signature="40093:42948" ph="TAB：指标测试" />
+                <marker date="1535709268108" expanded="true" signature="40118:40256" ph="/// 指标测试按钮通用事件 ... " />
+                <marker date="1535709268108" expanded="true" signature="40365:41340" ph="{...}" />
+                <marker date="1535709268108" expanded="true" signature="40434:40584" ph="{...}" />
+                <marker date="1535709268108" expanded="true" signature="40692:40842" ph="{...}" />
+                <marker date="1535709268108" expanded="true" signature="40927:41086" ph="{...}" />
+                <marker date="1535709268108" expanded="true" signature="41349:41481" ph="/// 清空日志 ... " />
+                <marker date="1535709268108" expanded="true" signature="41550:41640" ph="{...}" />
+                <marker date="1535709268108" expanded="true" signature="41649:41781" ph="/// 导出日志 ... " />
+                <marker date="1535709268108" expanded="true" signature="41847:42929" ph="{...}" />
+                <marker date="1535709268108" expanded="true" signature="41873:42849" ph="{...}" />
+                <marker date="1535709268108" expanded="true" signature="41948:42116" ph="{...}" />
+                <marker date="1535709268108" expanded="true" signature="42133:42268" ph="/* Clipboard.Clear(); ... */" />
+                <marker date="1535709268108" expanded="true" signature="42413:42835" ph="{...}" />
+                <marker date="1535709268108" expanded="true" signature="42510:42817" ph="{...}" />
+                <marker date="1535709268108" expanded="true" signature="42958:45059" ph="Socket 发送指标测试" />
+                <marker date="1535709268108" expanded="true" signature="43034:43152" ph="/// Socket发送指标测试指令 ... " />
+                <marker date="1535709268108" expanded="true" signature="43199:45040" ph="{...}" />
+                <marker date="1535709268108" expanded="true" signature="43735:43834" ph="{...}" />
+                <marker date="1535709268108" expanded="true" signature="43873:44081" ph="{...}" />
+                <marker date="1535709268108" expanded="true" signature="44101:44559" ph="{...}" />
+                <marker date="1535709268108" expanded="true" signature="44596:44685" ph="{...}" />
+                <marker date="1535709268108" expanded="true" signature="44709:45016" ph="{...}" />
+                <marker date="1535709268108" expanded="true" signature="44775:44887" ph="{...}" />
+                <marker date="1535709268108" expanded="true" signature="45069:46094" ph="委托控件调用（指标测试相关功能）" />
+                <marker date="1535709268108" expanded="true" signature="45102:45258" ph="/// 线程委托：修改界面GridControl ... " />
+                <marker date="1535709268108" expanded="true" signature="45368:46075" ph="{...}" />
+                <marker date="1535709268108" expanded="true" signature="45575:46025" ph="{...}" />
+                <marker date="1535709268108" expanded="true" signature="45946:45976" ph="{...}" />
+                <marker date="1535709268108" expanded="false" signature="46104:46253" ph="===============================================  我是功能分割线  ================================================================" />
+                <marker date="1535709268108" expanded="false" signature="46263:53691" ph="TAB：接发车数据" />
+                <marker date="1535709268108" expanded="true" signature="46289:46423" ph="/// 列车信息查询 ... " />
+                <marker date="1535709268108" expanded="true" signature="46507:49695" ph="{...}" />
+                <marker date="1535709268108" expanded="true" signature="46571:46715" ph="{...}" />
+                <marker date="1535709268108" expanded="true" signature="46731:49082" ph="{...}" />
+                <marker date="1535709268108" expanded="true" signature="47312:47470" ph="{...}" />
+                <marker date="1535709268108" expanded="true" signature="47949:48422" ph="{...}" />
+                <marker date="1535709268108" expanded="true" signature="48104:48404" ph="{...}" />
+                <marker date="1535709268108" expanded="true" signature="48274:48382" ph="{...}" />
+                <marker date="1535709268108" expanded="true" signature="48494:48659" ph="{...}" />
+                <marker date="1535709268108" expanded="true" signature="49115:49561" ph="{...}" />
+                <marker date="1535709268108" expanded="true" signature="49224:49437" ph="{...}" />
+                <marker date="1535709268108" expanded="true" signature="49458:49547" ph="{...}" />
+                <marker date="1535709268108" expanded="true" signature="49581:49685" ph="{...}" />
+                <marker date="1535709268108" expanded="true" signature="49705:49844" ph="/// 【左键】车厢信息查询  ... " />
+                <marker date="1535709268108" expanded="true" signature="49914:50669" ph="{...}" />
+                <marker date="1535709268108" expanded="true" signature="49940:50589" ph="{...}" />
+                <marker date="1535709268108" expanded="true" signature="50678:50816" ph="/// 【右键】打开问题车厢 ... " />
+                <marker date="1535709268108" expanded="true" signature="50930:51944" ph="{...}" />
+                <marker date="1535709268108" expanded="true" signature="50956:51864" ph="{...}" />
+                <marker date="1535709268108" expanded="true" signature="51247:51850" ph="{...}" />
+                <marker date="1535709268108" expanded="true" signature="51479:51772" ph="{...}" />
+                <marker date="1535709268108" expanded="true" signature="51772:51832" ph="{...}" />
+                <marker date="1535709268108" expanded="true" signature="51955:52095" ph="/// 【右键】查看车厢图片事件 ... " />
+                <marker date="1535709268108" expanded="true" signature="52215:53672" ph="{...}" />
+                <marker date="1535709268108" expanded="true" signature="52241:53592" ph="{...}" />
+                <marker date="1535709268108" expanded="true" signature="52307:53578" ph="{...}" />
+                <marker date="1535709268108" expanded="false" signature="53701:54764" ph="列车文件夹" />
+                <marker date="1535709268108" expanded="true" signature="53723:53856" ph="/// 列车文件夹 ... " />
+                <marker date="1535709268108" expanded="true" signature="53944:54745" ph="{...}" />
+                <marker date="1535709268108" expanded="true" signature="53970:54665" ph="{...}" />
+                <marker date="1535709268108" expanded="false" signature="54774:55759" ph="拷贝图片" />
+                <marker date="1535709268108" expanded="true" signature="54795:54934" ph="/// 拷贝问题图片[非EF] ... " />
+                <marker date="1535709268108" expanded="true" signature="55015:55264" ph="{...}" />
+                <marker date="1535709268108" expanded="true" signature="55274:55413" ph="/// 拷贝最后一张[非EF] ... " />
+                <marker date="1535709268108" expanded="true" signature="55495:55740" ph="{...}" />
+                <marker date="1535709268108" expanded="false" signature="55769:56982" ph="打开SQL脚本工具" />
+                <marker date="1535709268108" expanded="true" signature="55795:55932" ph="/// 打开SQL脚本工具 ... " />
+                <marker date="1535709268108" expanded="true" signature="56014:56195" ph="{...}" />
+                <marker date="1535709268108" expanded="true" signature="56262:56962" ph="{...}" />
+                <marker date="1535709268108" expanded="true" signature="56288:56802" ph="{...}" />
+                <marker date="1535709268108" expanded="true" signature="56378:56453" ph="{...}" />
+                <marker date="1535709268108" expanded="true" signature="56835:56926" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$USER_HOME$/AppData/Local/JetBrains/Toolbox/apps/Rider/ch-0/182.4231.193.vmoptions">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="216">
+              <caret line="12" selection-start-line="12" selection-end-line="12" selection-end-column="54" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/frm_Master.Designer.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-72">
+              <caret line="14" column="9" lean-forward="true" selection-start-line="14" selection-start-column="9" selection-end-line="14" selection-end-column="9" />
+              <folding>
+                <marker date="1535704891018" expanded="true" signature="25:109442" ph="{...}" />
+                <marker date="1535704891018" expanded="true" signature="56:109440" ph="{...}" />
+                <marker date="1535704891018" expanded="true" signature="71:147" ph="/// Required designer variable. ... " />
+                <marker date="1535704891018" expanded="true" signature="225:416" ph="/// Clean up any resources being used. ... " />
+                <marker date="1535704891018" expanded="true" signature="472:646" ph="{...}" />
+                <marker date="1535704891018" expanded="true" signature="533:599" ph="{...}" />
+                <marker date="1535704891018" expanded="false" signature="656:99786" ph="Windows Form Designer generated code" />
+                <marker date="1535704891018" expanded="true" signature="710:873" ph="/// Required method for Designer support - do not modify ... " />
+                <marker date="1535704891018" expanded="true" signature="916:99766" ph="{...}" />
+                <marker date="1535704891018" expanded="true" signature="17289:17343" ph="/* splitContainer_Main ... */" />
+                <marker date="1535704891018" expanded="true" signature="18301:18352" ph="/* treeList_Station ... */" />
+                <marker date="1535704891018" expanded="true" signature="18453:18486" ph="{...}" />
+                <marker date="1535704891018" expanded="true" signature="18593:18684" ph="{...}" />
+                <marker date="1535704891018" expanded="true" signature="19861:19909" ph="/* treeListBand1 ... */" />
+                <marker date="1535704891018" expanded="true" signature="20200:20250" ph="/* col_StationName ... */" />
+                <marker date="1535704891018" expanded="true" signature="20820:20866" ph="/* col_TelCode ... */" />
+                <marker date="1535704891018" expanded="true" signature="21253:21295" ph="/* tcol_IP ... */" />
+                <marker date="1535704891018" expanded="true" signature="21435:21492" ph="/* Custom_ImageCollection ... */" />
+                <marker date="1535704891018" expanded="true" signature="22259:22311" ph="/* StatusBar_Station ... */" />
+                <marker date="1535704891018" expanded="true" signature="22694:22754" ph="/* barStaticItem_StationInfo ... */" />
+                <marker date="1535704891018" expanded="true" signature="22993:23046" ph="/* ribbonControl_Main ... */" />
+                <marker date="1535704891018" expanded="true" signature="23334:24702" ph="{...}" />
+                <marker date="1535704891018" expanded="true" signature="25079:25200" ph="{...}" />
+                <marker date="1535704891018" expanded="true" signature="25319:25780" ph="{...}" />
+                <marker date="1535704891018" expanded="true" signature="26723:26779" ph="/* ribbonImageCollection ... */" />
+                <marker date="1535704891018" expanded="true" signature="28274:28319" ph="/* btn_Upload ... */" />
+                <marker date="1535704891018" expanded="true" signature="28628:28672" ph="/* btn_apply ... */" />
+                <marker date="1535704891018" expanded="true" signature="29024:29072" ph="/* btn_DBSetting ... */" />
+                <marker date="1535704891018" expanded="true" signature="29578:29620" ph="/* btn_Del ... */" />
+                <marker date="1535704891018" expanded="true" signature="29911:29954" ph="/* btn_View ... */" />
+                <marker date="1535704891018" expanded="true" signature="30409:30457" ph="/* btn_BaseCount ... */" />
+                <marker date="1535704891018" expanded="true" signature="30969:31032" ph="/* btn_GenerateRate_Audio_Video ... */" />
+                <marker date="1535704891018" expanded="true" signature="31682:31735" ph="/* btn_CallRate_Image ... */" />
+                <marker date="1535704891018" expanded="true" signature="32294:32342" ph="/* lbl_FileCount ... */" />
+                <marker date="1535704891018" expanded="true" signature="32783:32833" ph="/* lbl_PacketCount ... */" />
+                <marker date="1535704891018" expanded="true" signature="33290:33340" ph="/* btn_EditStation ... */" />
+                <marker date="1535704891018" expanded="true" signature="33865:33914" ph="/* btn_GetVersion ... */" />
+                <marker date="1535704891018" expanded="true" signature="34306:34357" ph="/* btn_Timely_Image ... */" />
+                <marker date="1535704891018" expanded="true" signature="34897:34954" ph="/* btn_AccuracyRate_Image ... */" />
+                <marker date="1535704891018" expanded="true" signature="35548:35602" ph="/* btn_CheckRate_Video ... */" />
+                <marker date="1535704891018" expanded="true" signature="36169:36220" ph="/* btn_Timely_Video ... */" />
+                <marker date="1535704891018" expanded="true" signature="36760:36806" ph="/* btn_DBIndex ... */" />
+                <marker date="1535704891018" expanded="true" signature="37300:37348" ph="/* btn_MissFiles ... */" />
+                <marker date="1535704891018" expanded="true" signature="37859:37911" ph="/* btn_HotwheelIndex ... */" />
+                <marker date="1535704891018" expanded="true" signature="38459:38505" ph="/* btn_QBIndex ... */" />
+                <marker date="1535704891018" expanded="true" signature="38999:39051" ph="/* btn_CheckTrainNum ... */" />
+                <marker date="1535704891018" expanded="true" signature="39601:39648" ph="/* btn_MissAxle ... */" />
+                <marker date="1535704891018" expanded="true" signature="40150:40209" ph="/* btn_SettingUpdaterA_8002 ... */" />
+                <marker date="1535704891018" expanded="true" signature="40684:40731" ph="/* lbl_RowCount ... */" />
+                <marker date="1535704891018" expanded="true" signature="41009:41055" ph="/* SkinBarItem ... */" />
+                <marker date="1535704891018" expanded="true" signature="41302:41352" ph="/* btn_SearchTrain ... */" />
+                <marker date="1535704891018" expanded="true" signature="41876:41925" ph="/* st_SearchTrain ... */" />
+                <marker date="1535704891018" expanded="true" signature="42432:42492" ph="/* repositoryItemDateEdit_st ... */" />
+                <marker date="1535704891018" expanded="true" signature="42667:42786" ph="{...}" />
+                <marker date="1535704891018" expanded="true" signature="42923:43042" ph="{...}" />
+                <marker date="1535704891018" expanded="true" signature="43297:43346" ph="/* ed_SearchTrain ... */" />
+                <marker date="1535704891018" expanded="true" signature="43853:43913" ph="/* repositoryItemDateEdit_ed ... */" />
+                <marker date="1535704891018" expanded="true" signature="44088:44207" ph="{...}" />
+                <marker date="1535704891018" expanded="true" signature="44344:44463" ph="{...}" />
+                <marker date="1535704891018" expanded="true" signature="44718:44764" ph="/* txt_TrainNo ... */" />
+                <marker date="1535704891018" expanded="true" signature="45246:45311" ph="/* repositoryItemTextEdit_TrainNo ... */" />
+                <marker date="1535704891018" expanded="true" signature="45481:45533" ph="/* txt_TrainDetailNo ... */" />
+                <marker date="1535704891018" expanded="true" signature="46081:46152" ph="/* repositoryItemTextEdit_TrainDetailNo ... */" />
+                <marker date="1535704891018" expanded="true" signature="46340:46385" ph="/* combo_Line ... */" />
+                <marker date="1535704891018" expanded="true" signature="46854:46916" ph="/* repositoryItemComboBox_Line ... */" />
+                <marker date="1535704891018" expanded="true" signature="47095:47214" ph="{...}" />
+                <marker date="1535704891018" expanded="true" signature="47312:47359" ph="/* btn_CopyPics ... */" />
+                <marker date="1535704891018" expanded="true" signature="47856:47904" ph="/* popup_Problem ... */" />
+                <marker date="1535704891018" expanded="true" signature="48416:48491" ph="/* repositoryItemPopupContainerEdit_Problem ... */" />
+                <marker date="1535704891018" expanded="true" signature="48696:48815" ph="{...}" />
+                <marker date="1535704891018" expanded="true" signature="49048:49112" ph="/* popupContainerControl_Problem ... */" />
+                <marker date="1535704891018" expanded="true" signature="49862:49906" ph="/* radio_All ... */" />
+                <marker date="1535704891018" expanded="true" signature="50502:50551" ph="/* radio_ChoseAll ... */" />
+                <marker date="1535704891018" expanded="true" signature="51196:51246" ph="/* radio_ChoseNone ... */" />
+                <marker date="1535704891018" expanded="true" signature="51901:51951" ph="/* radio_NoProblem ... */" />
+                <marker date="1535704891018" expanded="true" signature="52609:52660" ph="/* radio_HasProblem ... */" />
+                <marker date="1535704891018" expanded="true" signature="53400:53449" ph="/* lbl_TrainCount ... */" />
+                <marker date="1535704891018" expanded="true" signature="54018:54069" ph="/* lbl_CurTrainInfo ... */" />
+                <marker date="1535704891018" expanded="true" signature="54660:54714" ph="/* btn_OpenTrainFolder ... */" />
+                <marker date="1535704891018" expanded="true" signature="55280:55328" ph="/* btn_ExcuteSQL ... */" />
+                <marker date="1535704891018" expanded="true" signature="55836:55884" ph="/* btn_Copy4Last ... */" />
+                <marker date="1535704891018" expanded="true" signature="56391:56452" ph="/* ribbonImageCollectionLarge ... */" />
+                <marker date="1535704891018" expanded="true" signature="57545:57594" ph="/* rp_SASTAD_Data ... */" />
+                <marker date="1535704891018" expanded="true" signature="57692:57764" ph="{...}" />
+                <marker date="1535704891018" expanded="true" signature="57884:57936" ph="/* ribbonPageGroup10 ... */" />
+                <marker date="1535704891018" expanded="true" signature="58734:58785" ph="/* ribbonPageGroup8 ... */" />
+                <marker date="1535704891018" expanded="true" signature="59189:59232" ph="/* rp_Count ... */" />
+                <marker date="1535704891018" expanded="true" signature="59324:59465" ph="{...}" />
+                <marker date="1535704891018" expanded="true" signature="59566:59617" ph="/* ribbonPageGroup6 ... */" />
+                <marker date="1535704891018" expanded="true" signature="60145:60196" ph="/* ribbonPageGroup4 ... */" />
+                <marker date="1535704891018" expanded="true" signature="60604:60655" ph="/* ribbonPageGroup3 ... */" />
+                <marker date="1535704891018" expanded="true" signature="61063:61114" ph="/* ribbonPageGroup7 ... */" />
+                <marker date="1535704891018" expanded="true" signature="61500:61546" ph="/* rp_Template ... */" />
+                <marker date="1535704891018" expanded="true" signature="61641:61712" ph="{...}" />
+                <marker date="1535704891018" expanded="true" signature="61868:61919" ph="/* ribbonPageGroup1 ... */" />
+                <marker date="1535704891018" expanded="true" signature="62361:62412" ph="/* ribbonPageGroup5 ... */" />
+                <marker date="1535704891018" expanded="true" signature="62738:62784" ph="/* ribbonPage1 ... */" />
+                <marker date="1535704891018" expanded="true" signature="62879:62944" ph="{...}" />
+                <marker date="1535704891018" expanded="true" signature="63052:63097" ph="/* rp_Setting ... */" />
+                <marker date="1535704891018" expanded="true" signature="63385:63436" ph="/* ribbonPageGroup9 ... */" />
+                <marker date="1535704891018" expanded="true" signature="63687:63752" ph="/* repositoryItemComboBox_Problem ... */" />
+                <marker date="1535704891018" expanded="true" signature="63937:64056" ph="{...}" />
+                <marker date="1535704891018" expanded="true" signature="64160:64233" ph="/* repositoryItemTextEdit_Server_UserName ... */" />
+                <marker date="1535704891018" expanded="true" signature="64427:64500" ph="/* repositoryItemTextEdit_Server_Password ... */" />
+                <marker date="1535704891018" expanded="true" signature="64770:64823" ph="/* StatusBar_Template ... */" />
+                <marker date="1535704891018" expanded="true" signature="65199:65254" ph="/* navigationFrame_Main ... */" />
+                <marker date="1535704891018" expanded="true" signature="65802:65893" ph="{...}" />
+                <marker date="1535704891018" expanded="true" signature="66172:66218" ph="/* np_Template ... */" />
+                <marker date="1535704891018" expanded="true" signature="66482:66528" ph="/* gc_Template ... */" />
+                <marker date="1535704891018" expanded="true" signature="66748:66777" ph="{...}" />
+                <marker date="1535704891018" expanded="true" signature="67174:67205" ph="{...}" />
+                <marker date="1535704891018" expanded="true" signature="67220:67266" ph="/* gv_Template ... */" />
+                <marker date="1535704891018" expanded="true" signature="67454:67639" ph="{...}" />
+                <marker date="1535704891018" expanded="true" signature="68040:68082" ph="/* gcol_ID ... */" />
+                <marker date="1535704891018" expanded="true" signature="68222:68269" ph="/* gcol_TelCode ... */" />
+                <marker date="1535704891018" expanded="true" signature="68435:68485" ph="/* gcol_InsertDate ... */" />
+                <marker date="1535704891018" expanded="true" signature="68996:69045" ph="/* gcol_ApplyDate ... */" />
+                <marker date="1535704891018" expanded="true" signature="69546:69592" ph="/* gcol_Result ... */" />
+                <marker date="1535704891018" expanded="true" signature="69796:69842" ph="/* gcol_Status ... */" />
+                <marker date="1535704891018" expanded="true" signature="70136:70179" ph="/* np_Count ... */" />
+                <marker date="1535704891018" expanded="true" signature="70424:70471" ph="/* gc_IndexTest ... */" />
+                <marker date="1535704891018" expanded="true" signature="71018:71050" ph="{...}" />
+                <marker date="1535704891018" expanded="true" signature="71065:71112" ph="/* gv_IndexTest ... */" />
+                <marker date="1535704891018" expanded="true" signature="71205:71263" ph="{...}" />
+                <marker date="1535704891018" expanded="true" signature="71741:71785" ph="/* gcol_Name ... */" />
+                <marker date="1535704891018" expanded="true" signature="72069:72114" ph="/* gcol_Value ... */" />
+                <marker date="1535704891018" expanded="true" signature="72405:72453" ph="/* groupControl1 ... */" />
+                <marker date="1535704891018" expanded="true" signature="73243:73293" ph="/* chk_ShowFormula ... */" />
+                <marker date="1535704891018" expanded="true" signature="73779:73824" ph="/* btn_Export ... */" />
+                <marker date="1535704891018" expanded="true" signature="74522:74570" ph="/* btn_ClearMemo ... */" />
+                <marker date="1535704891018" expanded="true" signature="75307:75353" ph="/* ed_DateTime ... */" />
+                <marker date="1535704891018" expanded="true" signature="75708:75827" ph="{...}" />
+                <marker date="1535704891018" expanded="true" signature="75961:76080" ph="{...}" />
+                <marker date="1535704891018" expanded="true" signature="76722:76768" ph="/* st_DateTime ... */" />
+                <marker date="1535704891018" expanded="true" signature="77190:77309" ph="{...}" />
+                <marker date="1535704891018" expanded="true" signature="77443:77562" ph="{...}" />
+                <marker date="1535704891018" expanded="true" signature="78204:78253" ph="/* np_SASTAD_Data ... */" />
+                <marker date="1535704891018" expanded="true" signature="78530:78591" ph="/* splitContainer_SASTAD_Data ... */" />
+                <marker date="1535704891018" expanded="true" signature="78963:79031" ph="/* splitContainer_SASTAD_Data.Panel1 ... */" />
+                <marker date="1535704891018" expanded="true" signature="79124:79192" ph="/* splitContainer_SASTAD_Data.Panel2 ... */" />
+                <marker date="1535704891018" expanded="true" signature="79591:79634" ph="/* gc_Train ... */" />
+                <marker date="1535704891018" expanded="true" signature="80042:80098" ph="{...}" />
+                <marker date="1535704891018" expanded="true" signature="80305:80333" ph="{...}" />
+                <marker date="1535704891018" expanded="true" signature="80348:80391" ph="/* gv_Train ... */" />
+                <marker date="1535704891018" expanded="true" signature="80480:80754" ph="{...}" />
+                <marker date="1535704891018" expanded="true" signature="81354:81402" ph="/* gcol_Train_ID ... */" />
+                <marker date="1535704891018" expanded="true" signature="81525:81574" ph="/* gcol_Line_Name ... */" />
+                <marker date="1535704891018" expanded="true" signature="81890:81937" ph="/* gcol_TrainNo ... */" />
+                <marker date="1535704891018" expanded="true" signature="82240:82289" ph="/* gcol_TrainType ... */" />
+                <marker date="1535704891018" expanded="true" signature="82610:82660" ph="/* gcol_TrainCount ... */" />
+                <marker date="1535704891018" expanded="true" signature="82988:83041" ph="/* gcol_TrainComeDate ... */" />
+                <marker date="1535704891018" expanded="true" signature="83675:83746" ph="/* repositoryItemDateEdit_TrainComeDate ... */" />
+                <marker date="1535704891018" expanded="true" signature="83943:84062" ph="{...}" />
+                <marker date="1535704891018" expanded="true" signature="84210:84329" ph="{...}" />
+                <marker date="1535704891018" expanded="true" signature="84628:84678" ph="/* gcol_TrainSpeed ... */" />
+                <marker date="1535704891018" expanded="true" signature="85005:85060" ph="/* gcol_TrainAlarmLevel ... */" />
+                <marker date="1535704891018" expanded="true" signature="85422:85471" ph="/* gc_TrainDetail ... */" />
+                <marker date="1535704891018" expanded="true" signature="86037:86071" ph="{...}" />
+                <marker date="1535704891018" expanded="true" signature="86086:86135" ph="/* gv_TrainDetail ... */" />
+                <marker date="1535704891018" expanded="true" signature="86230:86498" ph="{...}" />
+                <marker date="1535704891018" expanded="true" signature="86664:86775" ph="{...}" />
+                <marker date="1535704891018" expanded="true" signature="87275:87322" ph="/* gcol_TrainID ... */" />
+                <marker date="1535704891018" expanded="true" signature="87442:87496" ph="/* gcol_TrainDetail_ID ... */" />
+                <marker date="1535704891018" expanded="true" signature="87643:87702" ph="/* gcol_TrainDetail_OrderNo ... */" />
+                <marker date="1535704891018" expanded="true" signature="88100:88154" ph="/* gcol_TrainDetail_No ... */" />
+                <marker date="1535704891018" expanded="true" signature="88512:88564" ph="/* gcol_Vehicle_Type ... */" />
+                <marker date="1535704891018" expanded="true" signature="88905:88957" ph="/* gcol_Problem_Type ... */" />
+                <marker date="1535704891018" expanded="true" signature="89300:89361" ph="/* gcol_TrainDetailAlarmLevel ... */" />
+                <marker date="1535704891018" expanded="true" signature="89766:89817" ph="/* ribbonStatusBar1 ... */" />
+                <marker date="1535704891018" expanded="true" signature="90255:90312" ph="/* popupControlContainer2 ... */" />
+                <marker date="1535704891018" expanded="true" signature="91108:91153" ph="/* buttonEdit ... */" />
+                <marker date="1535704891018" expanded="true" signature="91501:91566" ph="{...}" />
+                <marker date="1535704891018" expanded="true" signature="91692:91749" ph="/* popupControlContainer1 ... */" />
+                <marker date="1535704891018" expanded="true" signature="92629:92681" ph="/* someLabelControl2 ... */" />
+                <marker date="1535704891018" expanded="true" signature="93015:93067" ph="/* someLabelControl1 ... */" />
+                <marker date="1535704891018" expanded="true" signature="93400:93445" ph="/* ofd_Upload ... */" />
+                <marker date="1535704891018" expanded="true" signature="93516:93561" ph="/* frm_Master ... */" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/frm_Master.resx" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/frm_Master.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/frm_Master.Designer.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/frm_Master.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="10" />
+    <option name="y" value="20" />
+    <option name="width" value="1346" />
+    <option name="height" value="698" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="SolutionExplorer" proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="FileSystemExplorer" />
+      <pane id="SolutionExplorer">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="TOEC Inspection" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="TOEC Inspection" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="TOEC Inspection" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="TOEC Inspection" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="TOEC Inspection" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="frm_Master.cs" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="TOEC Inspection" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="TOEC SASTAD Data" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="TOEC Inspection" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="TOEC SASTAD Data" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="BLL" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+        <option name="show-all-files" value="false" />
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Rider.DefaultBreakpoints.AreToggled" value="true" />
+    <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="full.screen.before.presentation.mode" value="false" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="toec_inspection" type="DotNetProject" factoryName=".NET Project">
+      <option name="EXE_PATH" value="$PROJECT_DIR$/bin/x86/Debug/TOEC Inspection.exe" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/bin/x86/Debug" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/TOEC Inspection.csproj" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="Console" />
+      <option name="PROJECT_TFM" value=".NETFramework,Version=v4.5" />
+      <method v="2">
+        <option name="Build" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3572182b-bec1-4aed-9997-120c840a3cd9" name="Default Changelist" comment="" />
+      <created>1535709011430</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1535709011430</updated>
+      <workItem from="1535709012939" duration="303000" />
+      <workItem from="1535788050027" duration="1281000" />
+      <workItem from="1535929679305" duration="3516000" />
+      <workItem from="1536017836997" duration="1302000" />
+      <workItem from="1536110136580" duration="1446000" />
+      <workItem from="1536629411321" duration="255000" />
+      <workItem from="1536886184969" duration="13000" />
+      <workItem from="1536892047510" duration="364000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="8480000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.5145161" visible="true" weight="0.18078668" />
+      <window_info id="Structure" order="1" sideWeight="0.48548388" side_tool="true" weight="0.16868381" />
+      <window_info id="Favorites" order="2" sideWeight="0.48548388" side_tool="true" weight="0.17397882" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info active="true" anchor="bottom" id="Find" order="1" visible="true" weight="0.20967741" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32903227" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="NuGet" order="7" weight="0.32903227" />
+      <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="10" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Unit Tests" order="11" />
+      <window_info anchor="bottom" id="Terminal" order="12" />
+      <window_info anchor="bottom" id="Event Log" order="13" side_tool="true" />
+      <window_info anchor="bottom" id="Build" order="14" weight="0.32903227" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Errors In Solution" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+    </layout>
+    <layout-to-restore>
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.5145161" visible="true" weight="0.16868381" />
+      <window_info id="Structure" order="1" sideWeight="0.48548388" side_tool="true" weight="0.16868381" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info active="true" anchor="bottom" id="Find" order="1" visible="true" weight="0.20967741" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32903227" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="NuGet" order="7" />
+      <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="10" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Unit Tests" order="11" />
+      <window_info anchor="bottom" id="Terminal" order="12" />
+      <window_info anchor="bottom" id="Event Log" order="13" side_tool="true" />
+      <window_info anchor="bottom" id="Build" order="14" weight="0.32903227" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Errors In Solution" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" suspend="NONE" type="DotNet Exception Breakpoints">
+          <properties exception="System.Threading.ThreadAbortException" displayValue="System.Threading.ThreadAbortException" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/TOEC Inspection.csproj">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frm_Master.resx">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/JetBrains/Toolbox/apps/Rider/ch-0/182.4231.193.vmoptions">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="12" selection-start-line="12" selection-end-line="12" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frm_Master.Designer.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-72">
+          <caret line="14" column="9" lean-forward="true" selection-start-line="14" selection-start-column="9" selection-end-line="14" selection-end-column="9" />
+          <folding>
+            <marker date="1535704891018" expanded="true" signature="25:109442" ph="{...}" />
+            <marker date="1535704891018" expanded="true" signature="56:109440" ph="{...}" />
+            <marker date="1535704891018" expanded="true" signature="71:147" ph="/// Required designer variable. ... " />
+            <marker date="1535704891018" expanded="true" signature="225:416" ph="/// Clean up any resources being used. ... " />
+            <marker date="1535704891018" expanded="true" signature="472:646" ph="{...}" />
+            <marker date="1535704891018" expanded="true" signature="533:599" ph="{...}" />
+            <marker date="1535704891018" expanded="false" signature="656:99786" ph="Windows Form Designer generated code" />
+            <marker date="1535704891018" expanded="true" signature="710:873" ph="/// Required method for Designer support - do not modify ... " />
+            <marker date="1535704891018" expanded="true" signature="916:99766" ph="{...}" />
+            <marker date="1535704891018" expanded="true" signature="17289:17343" ph="/* splitContainer_Main ... */" />
+            <marker date="1535704891018" expanded="true" signature="18301:18352" ph="/* treeList_Station ... */" />
+            <marker date="1535704891018" expanded="true" signature="18453:18486" ph="{...}" />
+            <marker date="1535704891018" expanded="true" signature="18593:18684" ph="{...}" />
+            <marker date="1535704891018" expanded="true" signature="19861:19909" ph="/* treeListBand1 ... */" />
+            <marker date="1535704891018" expanded="true" signature="20200:20250" ph="/* col_StationName ... */" />
+            <marker date="1535704891018" expanded="true" signature="20820:20866" ph="/* col_TelCode ... */" />
+            <marker date="1535704891018" expanded="true" signature="21253:21295" ph="/* tcol_IP ... */" />
+            <marker date="1535704891018" expanded="true" signature="21435:21492" ph="/* Custom_ImageCollection ... */" />
+            <marker date="1535704891018" expanded="true" signature="22259:22311" ph="/* StatusBar_Station ... */" />
+            <marker date="1535704891018" expanded="true" signature="22694:22754" ph="/* barStaticItem_StationInfo ... */" />
+            <marker date="1535704891018" expanded="true" signature="22993:23046" ph="/* ribbonControl_Main ... */" />
+            <marker date="1535704891018" expanded="true" signature="23334:24702" ph="{...}" />
+            <marker date="1535704891018" expanded="true" signature="25079:25200" ph="{...}" />
+            <marker date="1535704891018" expanded="true" signature="25319:25780" ph="{...}" />
+            <marker date="1535704891018" expanded="true" signature="26723:26779" ph="/* ribbonImageCollection ... */" />
+            <marker date="1535704891018" expanded="true" signature="28274:28319" ph="/* btn_Upload ... */" />
+            <marker date="1535704891018" expanded="true" signature="28628:28672" ph="/* btn_apply ... */" />
+            <marker date="1535704891018" expanded="true" signature="29024:29072" ph="/* btn_DBSetting ... */" />
+            <marker date="1535704891018" expanded="true" signature="29578:29620" ph="/* btn_Del ... */" />
+            <marker date="1535704891018" expanded="true" signature="29911:29954" ph="/* btn_View ... */" />
+            <marker date="1535704891018" expanded="true" signature="30409:30457" ph="/* btn_BaseCount ... */" />
+            <marker date="1535704891018" expanded="true" signature="30969:31032" ph="/* btn_GenerateRate_Audio_Video ... */" />
+            <marker date="1535704891018" expanded="true" signature="31682:31735" ph="/* btn_CallRate_Image ... */" />
+            <marker date="1535704891018" expanded="true" signature="32294:32342" ph="/* lbl_FileCount ... */" />
+            <marker date="1535704891018" expanded="true" signature="32783:32833" ph="/* lbl_PacketCount ... */" />
+            <marker date="1535704891018" expanded="true" signature="33290:33340" ph="/* btn_EditStation ... */" />
+            <marker date="1535704891018" expanded="true" signature="33865:33914" ph="/* btn_GetVersion ... */" />
+            <marker date="1535704891018" expanded="true" signature="34306:34357" ph="/* btn_Timely_Image ... */" />
+            <marker date="1535704891018" expanded="true" signature="34897:34954" ph="/* btn_AccuracyRate_Image ... */" />
+            <marker date="1535704891018" expanded="true" signature="35548:35602" ph="/* btn_CheckRate_Video ... */" />
+            <marker date="1535704891018" expanded="true" signature="36169:36220" ph="/* btn_Timely_Video ... */" />
+            <marker date="1535704891018" expanded="true" signature="36760:36806" ph="/* btn_DBIndex ... */" />
+            <marker date="1535704891018" expanded="true" signature="37300:37348" ph="/* btn_MissFiles ... */" />
+            <marker date="1535704891018" expanded="true" signature="37859:37911" ph="/* btn_HotwheelIndex ... */" />
+            <marker date="1535704891018" expanded="true" signature="38459:38505" ph="/* btn_QBIndex ... */" />
+            <marker date="1535704891018" expanded="true" signature="38999:39051" ph="/* btn_CheckTrainNum ... */" />
+            <marker date="1535704891018" expanded="true" signature="39601:39648" ph="/* btn_MissAxle ... */" />
+            <marker date="1535704891018" expanded="true" signature="40150:40209" ph="/* btn_SettingUpdaterA_8002 ... */" />
+            <marker date="1535704891018" expanded="true" signature="40684:40731" ph="/* lbl_RowCount ... */" />
+            <marker date="1535704891018" expanded="true" signature="41009:41055" ph="/* SkinBarItem ... */" />
+            <marker date="1535704891018" expanded="true" signature="41302:41352" ph="/* btn_SearchTrain ... */" />
+            <marker date="1535704891018" expanded="true" signature="41876:41925" ph="/* st_SearchTrain ... */" />
+            <marker date="1535704891018" expanded="true" signature="42432:42492" ph="/* repositoryItemDateEdit_st ... */" />
+            <marker date="1535704891018" expanded="true" signature="42667:42786" ph="{...}" />
+            <marker date="1535704891018" expanded="true" signature="42923:43042" ph="{...}" />
+            <marker date="1535704891018" expanded="true" signature="43297:43346" ph="/* ed_SearchTrain ... */" />
+            <marker date="1535704891018" expanded="true" signature="43853:43913" ph="/* repositoryItemDateEdit_ed ... */" />
+            <marker date="1535704891018" expanded="true" signature="44088:44207" ph="{...}" />
+            <marker date="1535704891018" expanded="true" signature="44344:44463" ph="{...}" />
+            <marker date="1535704891018" expanded="true" signature="44718:44764" ph="/* txt_TrainNo ... */" />
+            <marker date="1535704891018" expanded="true" signature="45246:45311" ph="/* repositoryItemTextEdit_TrainNo ... */" />
+            <marker date="1535704891018" expanded="true" signature="45481:45533" ph="/* txt_TrainDetailNo ... */" />
+            <marker date="1535704891018" expanded="true" signature="46081:46152" ph="/* repositoryItemTextEdit_TrainDetailNo ... */" />
+            <marker date="1535704891018" expanded="true" signature="46340:46385" ph="/* combo_Line ... */" />
+            <marker date="1535704891018" expanded="true" signature="46854:46916" ph="/* repositoryItemComboBox_Line ... */" />
+            <marker date="1535704891018" expanded="true" signature="47095:47214" ph="{...}" />
+            <marker date="1535704891018" expanded="true" signature="47312:47359" ph="/* btn_CopyPics ... */" />
+            <marker date="1535704891018" expanded="true" signature="47856:47904" ph="/* popup_Problem ... */" />
+            <marker date="1535704891018" expanded="true" signature="48416:48491" ph="/* repositoryItemPopupContainerEdit_Problem ... */" />
+            <marker date="1535704891018" expanded="true" signature="48696:48815" ph="{...}" />
+            <marker date="1535704891018" expanded="true" signature="49048:49112" ph="/* popupContainerControl_Problem ... */" />
+            <marker date="1535704891018" expanded="true" signature="49862:49906" ph="/* radio_All ... */" />
+            <marker date="1535704891018" expanded="true" signature="50502:50551" ph="/* radio_ChoseAll ... */" />
+            <marker date="1535704891018" expanded="true" signature="51196:51246" ph="/* radio_ChoseNone ... */" />
+            <marker date="1535704891018" expanded="true" signature="51901:51951" ph="/* radio_NoProblem ... */" />
+            <marker date="1535704891018" expanded="true" signature="52609:52660" ph="/* radio_HasProblem ... */" />
+            <marker date="1535704891018" expanded="true" signature="53400:53449" ph="/* lbl_TrainCount ... */" />
+            <marker date="1535704891018" expanded="true" signature="54018:54069" ph="/* lbl_CurTrainInfo ... */" />
+            <marker date="1535704891018" expanded="true" signature="54660:54714" ph="/* btn_OpenTrainFolder ... */" />
+            <marker date="1535704891018" expanded="true" signature="55280:55328" ph="/* btn_ExcuteSQL ... */" />
+            <marker date="1535704891018" expanded="true" signature="55836:55884" ph="/* btn_Copy4Last ... */" />
+            <marker date="1535704891018" expanded="true" signature="56391:56452" ph="/* ribbonImageCollectionLarge ... */" />
+            <marker date="1535704891018" expanded="true" signature="57545:57594" ph="/* rp_SASTAD_Data ... */" />
+            <marker date="1535704891018" expanded="true" signature="57692:57764" ph="{...}" />
+            <marker date="1535704891018" expanded="true" signature="57884:57936" ph="/* ribbonPageGroup10 ... */" />
+            <marker date="1535704891018" expanded="true" signature="58734:58785" ph="/* ribbonPageGroup8 ... */" />
+            <marker date="1535704891018" expanded="true" signature="59189:59232" ph="/* rp_Count ... */" />
+            <marker date="1535704891018" expanded="true" signature="59324:59465" ph="{...}" />
+            <marker date="1535704891018" expanded="true" signature="59566:59617" ph="/* ribbonPageGroup6 ... */" />
+            <marker date="1535704891018" expanded="true" signature="60145:60196" ph="/* ribbonPageGroup4 ... */" />
+            <marker date="1535704891018" expanded="true" signature="60604:60655" ph="/* ribbonPageGroup3 ... */" />
+            <marker date="1535704891018" expanded="true" signature="61063:61114" ph="/* ribbonPageGroup7 ... */" />
+            <marker date="1535704891018" expanded="true" signature="61500:61546" ph="/* rp_Template ... */" />
+            <marker date="1535704891018" expanded="true" signature="61641:61712" ph="{...}" />
+            <marker date="1535704891018" expanded="true" signature="61868:61919" ph="/* ribbonPageGroup1 ... */" />
+            <marker date="1535704891018" expanded="true" signature="62361:62412" ph="/* ribbonPageGroup5 ... */" />
+            <marker date="1535704891018" expanded="true" signature="62738:62784" ph="/* ribbonPage1 ... */" />
+            <marker date="1535704891018" expanded="true" signature="62879:62944" ph="{...}" />
+            <marker date="1535704891018" expanded="true" signature="63052:63097" ph="/* rp_Setting ... */" />
+            <marker date="1535704891018" expanded="true" signature="63385:63436" ph="/* ribbonPageGroup9 ... */" />
+            <marker date="1535704891018" expanded="true" signature="63687:63752" ph="/* repositoryItemComboBox_Problem ... */" />
+            <marker date="1535704891018" expanded="true" signature="63937:64056" ph="{...}" />
+            <marker date="1535704891018" expanded="true" signature="64160:64233" ph="/* repositoryItemTextEdit_Server_UserName ... */" />
+            <marker date="1535704891018" expanded="true" signature="64427:64500" ph="/* repositoryItemTextEdit_Server_Password ... */" />
+            <marker date="1535704891018" expanded="true" signature="64770:64823" ph="/* StatusBar_Template ... */" />
+            <marker date="1535704891018" expanded="true" signature="65199:65254" ph="/* navigationFrame_Main ... */" />
+            <marker date="1535704891018" expanded="true" signature="65802:65893" ph="{...}" />
+            <marker date="1535704891018" expanded="true" signature="66172:66218" ph="/* np_Template ... */" />
+            <marker date="1535704891018" expanded="true" signature="66482:66528" ph="/* gc_Template ... */" />
+            <marker date="1535704891018" expanded="true" signature="66748:66777" ph="{...}" />
+            <marker date="1535704891018" expanded="true" signature="67174:67205" ph="{...}" />
+            <marker date="1535704891018" expanded="true" signature="67220:67266" ph="/* gv_Template ... */" />
+            <marker date="1535704891018" expanded="true" signature="67454:67639" ph="{...}" />
+            <marker date="1535704891018" expanded="true" signature="68040:68082" ph="/* gcol_ID ... */" />
+            <marker date="1535704891018" expanded="true" signature="68222:68269" ph="/* gcol_TelCode ... */" />
+            <marker date="1535704891018" expanded="true" signature="68435:68485" ph="/* gcol_InsertDate ... */" />
+            <marker date="1535704891018" expanded="true" signature="68996:69045" ph="/* gcol_ApplyDate ... */" />
+            <marker date="1535704891018" expanded="true" signature="69546:69592" ph="/* gcol_Result ... */" />
+            <marker date="1535704891018" expanded="true" signature="69796:69842" ph="/* gcol_Status ... */" />
+            <marker date="1535704891018" expanded="true" signature="70136:70179" ph="/* np_Count ... */" />
+            <marker date="1535704891018" expanded="true" signature="70424:70471" ph="/* gc_IndexTest ... */" />
+            <marker date="1535704891018" expanded="true" signature="71018:71050" ph="{...}" />
+            <marker date="1535704891018" expanded="true" signature="71065:71112" ph="/* gv_IndexTest ... */" />
+            <marker date="1535704891018" expanded="true" signature="71205:71263" ph="{...}" />
+            <marker date="1535704891018" expanded="true" signature="71741:71785" ph="/* gcol_Name ... */" />
+            <marker date="1535704891018" expanded="true" signature="72069:72114" ph="/* gcol_Value ... */" />
+            <marker date="1535704891018" expanded="true" signature="72405:72453" ph="/* groupControl1 ... */" />
+            <marker date="1535704891018" expanded="true" signature="73243:73293" ph="/* chk_ShowFormula ... */" />
+            <marker date="1535704891018" expanded="true" signature="73779:73824" ph="/* btn_Export ... */" />
+            <marker date="1535704891018" expanded="true" signature="74522:74570" ph="/* btn_ClearMemo ... */" />
+            <marker date="1535704891018" expanded="true" signature="75307:75353" ph="/* ed_DateTime ... */" />
+            <marker date="1535704891018" expanded="true" signature="75708:75827" ph="{...}" />
+            <marker date="1535704891018" expanded="true" signature="75961:76080" ph="{...}" />
+            <marker date="1535704891018" expanded="true" signature="76722:76768" ph="/* st_DateTime ... */" />
+            <marker date="1535704891018" expanded="true" signature="77190:77309" ph="{...}" />
+            <marker date="1535704891018" expanded="true" signature="77443:77562" ph="{...}" />
+            <marker date="1535704891018" expanded="true" signature="78204:78253" ph="/* np_SASTAD_Data ... */" />
+            <marker date="1535704891018" expanded="true" signature="78530:78591" ph="/* splitContainer_SASTAD_Data ... */" />
+            <marker date="1535704891018" expanded="true" signature="78963:79031" ph="/* splitContainer_SASTAD_Data.Panel1 ... */" />
+            <marker date="1535704891018" expanded="true" signature="79124:79192" ph="/* splitContainer_SASTAD_Data.Panel2 ... */" />
+            <marker date="1535704891018" expanded="true" signature="79591:79634" ph="/* gc_Train ... */" />
+            <marker date="1535704891018" expanded="true" signature="80042:80098" ph="{...}" />
+            <marker date="1535704891018" expanded="true" signature="80305:80333" ph="{...}" />
+            <marker date="1535704891018" expanded="true" signature="80348:80391" ph="/* gv_Train ... */" />
+            <marker date="1535704891018" expanded="true" signature="80480:80754" ph="{...}" />
+            <marker date="1535704891018" expanded="true" signature="81354:81402" ph="/* gcol_Train_ID ... */" />
+            <marker date="1535704891018" expanded="true" signature="81525:81574" ph="/* gcol_Line_Name ... */" />
+            <marker date="1535704891018" expanded="true" signature="81890:81937" ph="/* gcol_TrainNo ... */" />
+            <marker date="1535704891018" expanded="true" signature="82240:82289" ph="/* gcol_TrainType ... */" />
+            <marker date="1535704891018" expanded="true" signature="82610:82660" ph="/* gcol_TrainCount ... */" />
+            <marker date="1535704891018" expanded="true" signature="82988:83041" ph="/* gcol_TrainComeDate ... */" />
+            <marker date="1535704891018" expanded="true" signature="83675:83746" ph="/* repositoryItemDateEdit_TrainComeDate ... */" />
+            <marker date="1535704891018" expanded="true" signature="83943:84062" ph="{...}" />
+            <marker date="1535704891018" expanded="true" signature="84210:84329" ph="{...}" />
+            <marker date="1535704891018" expanded="true" signature="84628:84678" ph="/* gcol_TrainSpeed ... */" />
+            <marker date="1535704891018" expanded="true" signature="85005:85060" ph="/* gcol_TrainAlarmLevel ... */" />
+            <marker date="1535704891018" expanded="true" signature="85422:85471" ph="/* gc_TrainDetail ... */" />
+            <marker date="1535704891018" expanded="true" signature="86037:86071" ph="{...}" />
+            <marker date="1535704891018" expanded="true" signature="86086:86135" ph="/* gv_TrainDetail ... */" />
+            <marker date="1535704891018" expanded="true" signature="86230:86498" ph="{...}" />
+            <marker date="1535704891018" expanded="true" signature="86664:86775" ph="{...}" />
+            <marker date="1535704891018" expanded="true" signature="87275:87322" ph="/* gcol_TrainID ... */" />
+            <marker date="1535704891018" expanded="true" signature="87442:87496" ph="/* gcol_TrainDetail_ID ... */" />
+            <marker date="1535704891018" expanded="true" signature="87643:87702" ph="/* gcol_TrainDetail_OrderNo ... */" />
+            <marker date="1535704891018" expanded="true" signature="88100:88154" ph="/* gcol_TrainDetail_No ... */" />
+            <marker date="1535704891018" expanded="true" signature="88512:88564" ph="/* gcol_Vehicle_Type ... */" />
+            <marker date="1535704891018" expanded="true" signature="88905:88957" ph="/* gcol_Problem_Type ... */" />
+            <marker date="1535704891018" expanded="true" signature="89300:89361" ph="/* gcol_TrainDetailAlarmLevel ... */" />
+            <marker date="1535704891018" expanded="true" signature="89766:89817" ph="/* ribbonStatusBar1 ... */" />
+            <marker date="1535704891018" expanded="true" signature="90255:90312" ph="/* popupControlContainer2 ... */" />
+            <marker date="1535704891018" expanded="true" signature="91108:91153" ph="/* buttonEdit ... */" />
+            <marker date="1535704891018" expanded="true" signature="91501:91566" ph="{...}" />
+            <marker date="1535704891018" expanded="true" signature="91692:91749" ph="/* popupControlContainer1 ... */" />
+            <marker date="1535704891018" expanded="true" signature="92629:92681" ph="/* someLabelControl2 ... */" />
+            <marker date="1535704891018" expanded="true" signature="93015:93067" ph="/* someLabelControl1 ... */" />
+            <marker date="1535704891018" expanded="true" signature="93400:93445" ph="/* ofd_Upload ... */" />
+            <marker date="1535704891018" expanded="true" signature="93516:93561" ph="/* frm_Master ... */" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frm_Master.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-338">
+          <caret line="1044" column="17" lean-forward="true" selection-start-line="1044" selection-start-column="17" selection-end-line="1044" selection-end-column="17" />
+          <folding>
+            <marker date="1535709268108" expanded="false" signature="6:623" ph="..." />
+            <marker date="1535709268108" expanded="true" signature="650:56990" ph="{...}" />
+            <marker date="1535709268108" expanded="true" signature="699:56988" ph="{...}" />
+            <marker date="1535709268108" expanded="false" signature="714:3507" ph="初始化" />
+            <marker date="1535709268108" expanded="true" signature="1073:1163" ph="{...}" />
+            <marker date="1535709268108" expanded="true" signature="1173:1230" ph="/// 初始化自定义控件 ... " />
+            <marker date="1535709268108" expanded="true" signature="1273:3488" ph="{...}" />
+            <marker date="1535709268108" expanded="true" signature="1299:3421" ph="{...}" />
+            <marker date="1535709268108" expanded="true" signature="2093:2402" ph="{...}" />
+            <marker date="1535709268108" expanded="true" signature="2154:2384" ph="{...}" />
+            <marker date="1535709268108" expanded="true" signature="3291:3407" ph="{...}" />
+            <marker date="1535709268108" expanded="false" signature="3517:3666" ph="===============================================  我是功能分割线  ================================================================" />
+            <marker date="1535709268108" expanded="false" signature="3676:5147" ph="TAB: 本地配置" />
+            <marker date="1535709268108" expanded="true" signature="3702:3837" ph="/// 本地数据库配置 ... " />
+            <marker date="1535709268108" expanded="true" signature="3939:4072" ph="{...}" />
+            <marker date="1535709268108" expanded="true" signature="4081:4213" ph="/// 车站管理 ... " />
+            <marker date="1535709268108" expanded="true" signature="4317:4743" ph="{...}" />
+            <marker date="1535709268108" expanded="true" signature="4414:4581" ph="{...}" />
+            <marker date="1535709268108" expanded="true" signature="4598:4733" ph="{...}" />
+            <marker date="1535709268108" expanded="true" signature="4752:4884" ph="/// 皮肤管理 ... " />
+            <marker date="1535709268108" expanded="true" signature="5005:5128" ph="{...}" />
+            <marker date="1535709268108" expanded="true" signature="5157:21123" ph="控件初始化【面板、树、表格、窗体、TAB】" />
+            <marker date="1535709268108" expanded="true" signature="5196:10309" ph="问题面板" />
+            <marker date="1535709268108" expanded="true" signature="5217:5273" ph="/// 问题面板初始化 ... " />
+            <marker date="1535709268108" expanded="true" signature="5317:7464" ph="{...}" />
+            <marker date="1535709268108" expanded="true" signature="5343:7361" ph="{...}" />
+            <marker date="1535709268108" expanded="true" signature="5825:7243" ph="{...}" />
+            <marker date="1535709268108" expanded="true" signature="5887:6125" ph="{...}" />
+            <marker date="1535709268108" expanded="true" signature="6564:6652" ph="{...}" />
+            <marker date="1535709268108" expanded="true" signature="6677:6764" ph="{...}" />
+            <marker date="1535709268108" expanded="true" signature="7531:7943" ph="{...}" />
+            <marker date="1535709268108" expanded="true" signature="7729:7795" ph="{...}" />
+            <marker date="1535709268108" expanded="true" signature="7812:7886" ph="{...}" />
+            <marker date="1535709268108" expanded="true" signature="8012:8783" ph="{...}" />
+            <marker date="1535709268108" expanded="true" signature="8062:8394" ph="{...}" />
+            <marker date="1535709268108" expanded="true" signature="8178:8380" ph="{...}" />
+            <marker date="1535709268108" expanded="true" signature="8440:8773" ph="{...}" />
+            <marker date="1535709268108" expanded="true" signature="8556:8759" ph="{...}" />
+            <marker date="1535709268108" expanded="true" signature="8793:8930" ph="/// 问题Radio判断 ... " />
+            <marker date="1535709268108" expanded="true" signature="9000:10290" ph="{...}" />
+            <marker date="1535709268108" expanded="true" signature="9052:9433" ph="{...}" />
+            <marker date="1535709268108" expanded="true" signature="9217:9419" ph="{...}" />
+            <marker date="1535709268108" expanded="true" signature="9479:9861" ph="{...}" />
+            <marker date="1535709268108" expanded="true" signature="9644:9847" ph="{...}" />
+            <marker date="1535709268108" expanded="true" signature="9901:10280" ph="{...}" />
+            <marker date="1535709268108" expanded="true" signature="10063:10266" ph="{...}" />
+            <marker date="1535709268108" expanded="false" signature="10319:13011" ph="车站树" />
+            <marker date="1535709268108" expanded="true" signature="10339:10393" ph="/// 加载车站树 ... " />
+            <marker date="1535709268108" expanded="true" signature="10429:11319" ph="{...}" />
+            <marker date="1535709268108" expanded="true" signature="10544:11309" ph="{...}" />
+            <marker date="1535709268108" expanded="true" signature="10833:11121" ph="{...}" />
+            <marker date="1535709268108" expanded="true" signature="11142:11295" ph="{...}" />
+            <marker date="1535709268108" expanded="true" signature="11328:11464" ph="/// 树形控件添加图标 ... " />
+            <marker date="1535709268108" expanded="true" signature="11571:11962" ph="{...}" />
+            <marker date="1535709268108" expanded="true" signature="11654:11867" ph="{...}" />
+            <marker date="1535709268108" expanded="true" signature="11705:11813" ph="{...}" />
+            <marker date="1535709268108" expanded="true" signature="11884:11952" ph="{...}" />
+            <marker date="1535709268108" expanded="true" signature="11971:12103" ph="/// 选择节点 ... " />
+            <marker date="1535709268108" expanded="true" signature="12212:12992" ph="{...}" />
+            <marker date="1535709268108" expanded="true" signature="12350:12766" ph="{...}" />
+            <marker date="1535709268108" expanded="true" signature="12783:12940" ph="{...}" />
+            <marker date="1535709268108" expanded="false" signature="13021:16334" ph="模板表格" />
+            <marker date="1535709268108" expanded="true" signature="13042:13097" ph="/// 加载模板表格 ... " />
+            <marker date="1535709268108" expanded="true" signature="13147:14394" ph="{...}" />
+            <marker date="1535709268108" expanded="true" signature="13173:14314" ph="{...}" />
+            <marker date="1535709268108" expanded="true" signature="13340:13939" ph="{...}" />
+            <marker date="1535709268108" expanded="true" signature="13700:13797" ph="{...}" />
+            <marker date="1535709268108" expanded="true" signature="13822:13921" ph="{...}" />
+            <marker date="1535709268108" expanded="true" signature="14024:14221" ph="{...}" />
+            <marker date="1535709268108" expanded="true" signature="14403:14534" ph="/// 行颜色 ... " />
+            <marker date="1535709268108" expanded="true" signature="14658:16315" ph="{...}" />
+            <marker date="1535709268108" expanded="true" signature="14888:16085" ph="{...}" />
+            <marker date="1535709268108" expanded="true" signature="16098:16305" ph="/* if (e.RowHandle == gv_Template.FocusedRowHandle) ... */" />
+            <marker date="1535709268108" expanded="false" signature="16344:17351" ph="指标测试表格 行颜色" />
+            <marker date="1535709268108" expanded="true" signature="16371:16502" ph="/// 行颜色 ... " />
+            <marker date="1535709268108" expanded="true" signature="16627:17332" ph="{...}" />
+            <marker date="1535709268108" expanded="true" signature="16741:17322" ph="{...}" />
+            <marker date="1535709268108" expanded="true" signature="16908:17074" ph="{...}" />
+            <marker date="1535709268108" expanded="true" signature="17141:17308" ph="{...}" />
+            <marker date="1535709268108" expanded="true" signature="17361:19543" ph="接发车数据 行颜色" />
+            <marker date="1535709268108" expanded="true" signature="17387:17518" ph="/// 列车表 ... " />
+            <marker date="1535709268108" expanded="true" signature="17639:18442" ph="{...}" />
+            <marker date="1535709268108" expanded="true" signature="17838:18432" ph="{...}" />
+            <marker date="1535709268108" expanded="true" signature="17930:18043" ph="{...}" />
+            <marker date="1535709268108" expanded="true" signature="18126:18232" ph="{...}" />
+            <marker date="1535709268108" expanded="true" signature="18253:18418" ph="{...}" />
+            <marker date="1535709268108" expanded="true" signature="18451:18582" ph="/// 车厢表 ... " />
+            <marker date="1535709268108" expanded="true" signature="18709:19524" ph="{...}" />
+            <marker date="1535709268108" expanded="true" signature="18914:19514" ph="{...}" />
+            <marker date="1535709268108" expanded="true" signature="19006:19125" ph="{...}" />
+            <marker date="1535709268108" expanded="true" signature="19208:19314" ph="{...}" />
+            <marker date="1535709268108" expanded="true" signature="19335:19500" ph="{...}" />
+            <marker date="1535709268108" expanded="false" signature="19553:20235" ph="窗体关闭询问" />
+            <marker date="1535709268108" expanded="true" signature="19576:19710" ph="/// 窗体关闭询问 ... " />
+            <marker date="1535709268108" expanded="true" signature="19793:20216" ph="{...}" />
+            <marker date="1535709268108" expanded="true" signature="20065:20128" ph="{...}" />
+            <marker date="1535709268108" expanded="true" signature="20145:20206" ph="{...}" />
+            <marker date="1535709268108" expanded="false" signature="20245:21103" ph="导航切换" />
+            <marker date="1535709268108" expanded="true" signature="20266:20398" ph="/// 导航切换 ... " />
+            <marker date="1535709268108" expanded="true" signature="20486:21084" ph="{...}" />
+            <marker date="1535709268108" expanded="true" signature="20560:20653" ph="{...}" />
+            <marker date="1535709268108" expanded="true" signature="20719:20846" ph="{...}" />
+            <marker date="1535709268108" expanded="true" signature="20918:21074" ph="{...}" />
+            <marker date="1535709268108" expanded="false" signature="21133:21282" ph="===============================================  我是功能分割线  ================================================================" />
+            <marker date="1535709268108" expanded="false" signature="21292:30089" ph="TAB：模板管理" />
+            <marker date="1535709268108" expanded="true" signature="21317:21449" ph="/// 导入模板 ... " />
+            <marker date="1535709268108" expanded="true" signature="21548:23806" ph="{...}" />
+            <marker date="1535709268108" expanded="true" signature="21617:21761" ph="{...}" />
+            <marker date="1535709268108" expanded="true" signature="22088:23796" ph="{...}" />
+            <marker date="1535709268108" expanded="true" signature="22334:23659" ph="{...}" />
+            <marker date="1535709268108" expanded="true" signature="22683:23641" ph="{...}" />
+            <marker date="1535709268108" expanded="true" signature="23360:23619" ph="{...}" />
+            <marker date="1535709268108" expanded="true" signature="23815:23947" ph="/// 删除模板 ... " />
+            <marker date="1535709268108" expanded="true" signature="24043:25565" ph="{...}" />
+            <marker date="1535709268108" expanded="true" signature="24110:24266" ph="{...}" />
+            <marker date="1535709268108" expanded="true" signature="24596:24756" ph="{...}" />
+            <marker date="1535709268108" expanded="true" signature="24933:25555" ph="{...}" />
+            <marker date="1535709268108" expanded="true" signature="25080:25468" ph="{...}" />
+            <marker date="1535709268108" expanded="true" signature="25353:25450" ph="{...}" />
+            <marker date="1535709268108" expanded="true" signature="25574:25706" ph="/// 浏览模板 ... " />
+            <marker date="1535709268108" expanded="true" signature="25803:26607" ph="{...}" />
+            <marker date="1535709268108" expanded="true" signature="25932:26088" ph="{...}" />
+            <marker date="1535709268108" expanded="true" signature="26616:26748" ph="/// 应用模板 ... " />
+            <marker date="1535709268108" expanded="true" signature="26846:30070" ph="{...}" />
+            <marker date="1535709268108" expanded="true" signature="26913:27069" ph="{...}" />
+            <marker date="1535709268108" expanded="true" signature="27415:27577" ph="{...}" />
+            <marker date="1535709268108" expanded="true" signature="27756:30060" ph="{...}" />
+            <marker date="1535709268108" expanded="true" signature="28366:28542" ph="{...}" />
+            <marker date="1535709268108" expanded="true" signature="28563:28680" ph="{...}" />
+            <marker date="1535709268108" expanded="true" signature="28819:28994" ph="{...}" />
+            <marker date="1535709268108" expanded="true" signature="29466:29916" ph="{...}" />
+            <marker date="1535709268108" expanded="true" signature="29547:29829" ph="{...}" />
+            <marker date="1535709268108" expanded="true" signature="29829:29898" ph="{...}" />
+            <marker date="1535709268108" expanded="false" signature="30099:36497" ph="Socket 发送模板功能" />
+            <marker date="1535709268108" expanded="true" signature="30129:30230" ph="/// Socket 发送模板功能 ... " />
+            <marker date="1535709268108" expanded="true" signature="30276:36478" ph="{...}" />
+            <marker date="1535709268108" expanded="true" signature="30847:30934" ph="{...}" />
+            <marker date="1535709268108" expanded="true" signature="30965:31131" ph="{...}" />
+            <marker date="1535709268108" expanded="true" signature="31147:35850" ph="{...}" />
+            <marker date="1535709268108" expanded="true" signature="31562:34737" ph="{...}" />
+            <marker date="1535709268108" expanded="true" signature="31635:34684" ph="{...}" />
+            <marker date="1535709268108" expanded="true" signature="31874:31930" ph="/* 包的大小 ... */" />
+            <marker date="1535709268108" expanded="true" signature="33153:33914" ph="{...}" />
+            <marker date="1535709268108" expanded="true" signature="33404:33687" ph="{...}" />
+            <marker date="1535709268108" expanded="true" signature="34009:34256" ph="{...}" />
+            <marker date="1535709268108" expanded="true" signature="34989:35154" ph="{...}" />
+            <marker date="1535709268108" expanded="true" signature="35175:35836" ph="{...}" />
+            <marker date="1535709268108" expanded="true" signature="35434:35615" ph="{...}" />
+            <marker date="1535709268108" expanded="true" signature="35640:35818" ph="{...}" />
+            <marker date="1535709268108" expanded="true" signature="35883:36088" ph="{...}" />
+            <marker date="1535709268108" expanded="true" signature="36108:36468" ph="{...}" />
+            <marker date="1535709268108" expanded="true" signature="36166:36266" ph="{...}" />
+            <marker date="1535709268108" expanded="false" signature="36507:39924" ph="委托控件调用（模板相关功能）" />
+            <marker date="1535709268108" expanded="true" signature="36538:36694" ph="/// 线程委托：修改界面GridControl ... " />
+            <marker date="1535709268108" expanded="true" signature="36851:38021" ph="{...}" />
+            <marker date="1535709268108" expanded="true" signature="36962:37144" ph="{...}" />
+            <marker date="1535709268108" expanded="true" signature="37271:38011" ph="{...}" />
+            <marker date="1535709268108" expanded="true" signature="37525:37639" ph="{...}" />
+            <marker date="1535709268108" expanded="true" signature="37911:37997" ph="{...}" />
+            <marker date="1535709268108" expanded="true" signature="38030:38353" ph="/// 线程委托：修改界面lbl_TransferStatus ... " />
+            <marker date="1535709268108" expanded="true" signature="38484:38788" ph="/// 更新界面进度标签 ... " />
+            <marker date="1535709268108" expanded="true" signature="38891:39905" ph="{...}" />
+            <marker date="1535709268108" expanded="true" signature="39005:39133" ph="{...}" />
+            <marker date="1535709268108" expanded="true" signature="39217:39895" ph="{...}" />
+            <marker date="1535709268108" expanded="true" signature="39380:39509" ph="{...}" />
+            <marker date="1535709268108" expanded="true" signature="39773:39881" ph="{...}" />
+            <marker date="1535709268108" expanded="false" signature="39934:40083" ph="===============================================  我是功能分割线  ================================================================" />
+            <marker date="1535709268108" expanded="false" signature="40093:42948" ph="TAB：指标测试" />
+            <marker date="1535709268108" expanded="true" signature="40118:40256" ph="/// 指标测试按钮通用事件 ... " />
+            <marker date="1535709268108" expanded="true" signature="40365:41340" ph="{...}" />
+            <marker date="1535709268108" expanded="true" signature="40434:40584" ph="{...}" />
+            <marker date="1535709268108" expanded="true" signature="40692:40842" ph="{...}" />
+            <marker date="1535709268108" expanded="true" signature="40927:41086" ph="{...}" />
+            <marker date="1535709268108" expanded="true" signature="41349:41481" ph="/// 清空日志 ... " />
+            <marker date="1535709268108" expanded="true" signature="41550:41640" ph="{...}" />
+            <marker date="1535709268108" expanded="true" signature="41649:41781" ph="/// 导出日志 ... " />
+            <marker date="1535709268108" expanded="true" signature="41847:42929" ph="{...}" />
+            <marker date="1535709268108" expanded="true" signature="41873:42849" ph="{...}" />
+            <marker date="1535709268108" expanded="true" signature="41948:42116" ph="{...}" />
+            <marker date="1535709268108" expanded="true" signature="42133:42268" ph="/* Clipboard.Clear(); ... */" />
+            <marker date="1535709268108" expanded="true" signature="42413:42835" ph="{...}" />
+            <marker date="1535709268108" expanded="true" signature="42510:42817" ph="{...}" />
+            <marker date="1535709268108" expanded="true" signature="42958:45059" ph="Socket 发送指标测试" />
+            <marker date="1535709268108" expanded="true" signature="43034:43152" ph="/// Socket发送指标测试指令 ... " />
+            <marker date="1535709268108" expanded="true" signature="43199:45040" ph="{...}" />
+            <marker date="1535709268108" expanded="true" signature="43735:43834" ph="{...}" />
+            <marker date="1535709268108" expanded="true" signature="43873:44081" ph="{...}" />
+            <marker date="1535709268108" expanded="true" signature="44101:44559" ph="{...}" />
+            <marker date="1535709268108" expanded="true" signature="44596:44685" ph="{...}" />
+            <marker date="1535709268108" expanded="true" signature="44709:45016" ph="{...}" />
+            <marker date="1535709268108" expanded="true" signature="44775:44887" ph="{...}" />
+            <marker date="1535709268108" expanded="true" signature="45069:46094" ph="委托控件调用（指标测试相关功能）" />
+            <marker date="1535709268108" expanded="true" signature="45102:45258" ph="/// 线程委托：修改界面GridControl ... " />
+            <marker date="1535709268108" expanded="true" signature="45368:46075" ph="{...}" />
+            <marker date="1535709268108" expanded="true" signature="45575:46025" ph="{...}" />
+            <marker date="1535709268108" expanded="true" signature="45946:45976" ph="{...}" />
+            <marker date="1535709268108" expanded="false" signature="46104:46253" ph="===============================================  我是功能分割线  ================================================================" />
+            <marker date="1535709268108" expanded="false" signature="46263:53691" ph="TAB：接发车数据" />
+            <marker date="1535709268108" expanded="true" signature="46289:46423" ph="/// 列车信息查询 ... " />
+            <marker date="1535709268108" expanded="true" signature="46507:49695" ph="{...}" />
+            <marker date="1535709268108" expanded="true" signature="46571:46715" ph="{...}" />
+            <marker date="1535709268108" expanded="true" signature="46731:49082" ph="{...}" />
+            <marker date="1535709268108" expanded="true" signature="47312:47470" ph="{...}" />
+            <marker date="1535709268108" expanded="true" signature="47949:48422" ph="{...}" />
+            <marker date="1535709268108" expanded="true" signature="48104:48404" ph="{...}" />
+            <marker date="1535709268108" expanded="true" signature="48274:48382" ph="{...}" />
+            <marker date="1535709268108" expanded="true" signature="48494:48659" ph="{...}" />
+            <marker date="1535709268108" expanded="true" signature="49115:49561" ph="{...}" />
+            <marker date="1535709268108" expanded="true" signature="49224:49437" ph="{...}" />
+            <marker date="1535709268108" expanded="true" signature="49458:49547" ph="{...}" />
+            <marker date="1535709268108" expanded="true" signature="49581:49685" ph="{...}" />
+            <marker date="1535709268108" expanded="true" signature="49705:49844" ph="/// 【左键】车厢信息查询  ... " />
+            <marker date="1535709268108" expanded="true" signature="49914:50669" ph="{...}" />
+            <marker date="1535709268108" expanded="true" signature="49940:50589" ph="{...}" />
+            <marker date="1535709268108" expanded="true" signature="50678:50816" ph="/// 【右键】打开问题车厢 ... " />
+            <marker date="1535709268108" expanded="true" signature="50930:51944" ph="{...}" />
+            <marker date="1535709268108" expanded="true" signature="50956:51864" ph="{...}" />
+            <marker date="1535709268108" expanded="true" signature="51247:51850" ph="{...}" />
+            <marker date="1535709268108" expanded="true" signature="51479:51772" ph="{...}" />
+            <marker date="1535709268108" expanded="true" signature="51772:51832" ph="{...}" />
+            <marker date="1535709268108" expanded="true" signature="51955:52095" ph="/// 【右键】查看车厢图片事件 ... " />
+            <marker date="1535709268108" expanded="true" signature="52215:53672" ph="{...}" />
+            <marker date="1535709268108" expanded="true" signature="52241:53592" ph="{...}" />
+            <marker date="1535709268108" expanded="true" signature="52307:53578" ph="{...}" />
+            <marker date="1535709268108" expanded="false" signature="53701:54764" ph="列车文件夹" />
+            <marker date="1535709268108" expanded="true" signature="53723:53856" ph="/// 列车文件夹 ... " />
+            <marker date="1535709268108" expanded="true" signature="53944:54745" ph="{...}" />
+            <marker date="1535709268108" expanded="true" signature="53970:54665" ph="{...}" />
+            <marker date="1535709268108" expanded="false" signature="54774:55759" ph="拷贝图片" />
+            <marker date="1535709268108" expanded="true" signature="54795:54934" ph="/// 拷贝问题图片[非EF] ... " />
+            <marker date="1535709268108" expanded="true" signature="55015:55264" ph="{...}" />
+            <marker date="1535709268108" expanded="true" signature="55274:55413" ph="/// 拷贝最后一张[非EF] ... " />
+            <marker date="1535709268108" expanded="true" signature="55495:55740" ph="{...}" />
+            <marker date="1535709268108" expanded="false" signature="55769:56982" ph="打开SQL脚本工具" />
+            <marker date="1535709268108" expanded="true" signature="55795:55932" ph="/// 打开SQL脚本工具 ... " />
+            <marker date="1535709268108" expanded="true" signature="56014:56195" ph="{...}" />
+            <marker date="1535709268108" expanded="true" signature="56262:56962" ph="{...}" />
+            <marker date="1535709268108" expanded="true" signature="56288:56802" ph="{...}" />
+            <marker date="1535709268108" expanded="true" signature="56378:56453" ph="{...}" />
+            <marker date="1535709268108" expanded="true" signature="56835:56926" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
